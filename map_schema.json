@@ -1,6 +1,9 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "Drug Addicts Prevalence by Administrative District and State",
+    "title": {
+        "text": "Drug Addicts Prevalence by Administrative District and State",
+        "offset": 20
+    },
     "width": 800,
     "height": 400,
     "projection": {"type": "equalEarth"},

@@ -1,6 +1,9 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "Total Drug Addicts in Malaysia from 2010 to 2021",
+    "title": {
+        "text": "Total Drug Addicts in Malaysia from 2010 to 2021",
+        "offset": 20
+    },
     "data": {"url": "drug_addicts_by_state_my.csv"},
     "width": 600,
     "height": 300,
@@ -16,7 +19,7 @@
           "color": {"value": "green"}, 
           "tooltip": [
             {"field": "Year", "type": "ordinal"},
-            {"field": "sum_Value", "type": "quantitative", "title": "Total Drug Addicts", "format": ","}
+            {"field": "sum_Value", "type": "quantitative", "title": "Total Drug Addicts", "format": ",d"}
                 ]
             }
         },
