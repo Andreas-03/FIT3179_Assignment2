@@ -1,0 +1,156 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": {
+        "text": "Prevalence of Drug Use and Regional Estimates in 2021",
+        "offset": 20
+    },
+    "data": {"url": "Prevalence_of_drug_use_and_regional_estimates.csv"},
+    "width": 500,
+    "height": 500,
+    
+    "layer":[
+        {
+        "transform": [
+            {
+            "calculate": "datum.Prevalence / 100" , "as": "Prevalence%"
+            }
+        ],
+        "params":[
+            {
+            "name": "drug_hightlight",
+            "select": {"type": "point", "fields": ["Drug_type"]},
+            "bind": "legend"
+            }
+        ],
+        "mark": 
+            {
+            "type": "arc",
+            "innerRadius": 50
+            },
+        "encoding": 
+            {
+            "theta": {"field": "Region", "type": "nominal"},
+            "radius": {"field": "Prevalence", "type": "quantitative", "stack": true},
+            "color": {
+                "field": "Drug_type", 
+                "type": "nominal", 
+                "title": "Drug Type",
+                "scale": {"scheme": "category20b"}
+                    },
+            "opacity": {
+                "condition": {"param": "drug_hightlight", "value": 1},
+                "value": 0.2
+                },
+            "tooltip": [
+                {"field": "Region", "type": "nominal", "title": "Region"},
+                {"field": "Drug_type", "type": "nominal", "title": "Drug Type"},
+                {"field": "Prevalence%", "type": "quantitative", "title": "Prevalence", "format": ".2%"},
+                {"field": "Number", "type": "quantitative", "title": "Estimated Number", "format": ",d"}
+                ]
+            }
+        },
+        {
+        "transform": [
+            {"filter": "datum.Drug_type == 'Cannabis' && datum.Region == 'Oceania'"}
+        ],
+        "mark": 
+            {
+            "type": "text",
+            "align": "center",
+            "baseline": "middle",
+            "fontWeight": "normal",
+            "fontSize": 10,
+            "radiusOffset": 130
+            },
+        "encoding": 
+            {
+                "radius": {"field": "Prevalence", "type": "quantitative"},
+                "theta": {"field": "Region", "type": "nominal"},
+                "text": {"field": "Region", "type": "nominal"}
+            }
+        },
+        {
+        "transform": [
+            {"filter": "datum.Drug_type == 'Cannabis' && datum.Region == 'Americas'"}
+        ],
+        "mark": 
+            {
+            "type": "text",
+            "align": "center",
+            "baseline": "middle",
+            "fontWeight": "normal",
+            "fontSize": 10,
+            "radiusOffset": 115
+            },
+        "encoding": 
+            {
+                "radius": {"field": "Prevalence", "type": "quantitative"},
+                "theta": {"field": "Region", "type": "nominal"},
+                "text": {"field": "Region", "type": "nominal"}
+            }
+        },
+        {
+        "transform": [
+            {"filter": "datum.Drug_type == 'Cannabis' && datum.Region == 'Asia'"}
+        ],
+        "mark": 
+            {
+            "type": "text",
+            "align": "center",
+            "baseline": "middle",
+            "fontWeight": "normal",
+            "fontSize": 10,
+            "radiusOffset": 50
+            },
+        "encoding": 
+            {
+                "radius": {"field": "Prevalence", "type": "quantitative"},
+                "theta": {"field": "Region", "type": "nominal"},
+                "text": {"field": "Region", "type": "nominal"}
+            }
+        },
+        {
+        "transform": [
+            {"filter": "datum.Drug_type == 'Cannabis' && datum.Region == 'Africa'"}
+        ],
+        "mark": 
+            {
+            "type": "text",
+            "align": "center",
+            "baseline": "middle",
+            "fontWeight": "normal",
+            "fontSize": 10,
+            "radiusOffset": 55
+            },
+        "encoding": 
+            {
+                "radius": {"field": "Prevalence", "type": "quantitative"},
+                "theta": {"field": "Region", "type": "nominal"},
+                "text": {"field": "Region", "type": "nominal"}
+            }
+        },
+        {
+        "transform": [
+            {"filter": "datum.Drug_type == 'Cannabis' && datum.Region == 'Europe'"}
+        ],
+        "mark": 
+            {
+            "type": "text",
+            "align": "center",
+            "baseline": "middle",
+            "fontWeight": "normal",
+            "fontSize": 10,
+            "radiusOffset": 70
+            },
+        "encoding": 
+            {
+                "radius": {"field": "Prevalence", "type": "quantitative"},
+                "theta": {"field": "Region", "type": "nominal"},
+                "text": {"field": "Region", "type": "nominal"}
+            }
+        }
+    ],
+    
+    "view": {"stroke": null}
+  }
+  
