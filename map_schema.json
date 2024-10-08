@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "Drug Addicts Distribution by State",
+    "title": "Drug Addicts Prevalence by Administrative District and State",
     "width": 800,
     "height": 400,
     "projection": {"type": "equalEarth"},
@@ -66,7 +66,12 @@
                 "color": {
                     "field": "Drug Addicts per 1000 people",
                     "type": "quantitative",
-                    "scale": {"type": "log"}
+                    "scale": {
+                        "type": "threshold",
+                        "domain": [0.1, 0.3, 0.6, 1.0, 1.5],
+                        "range": ["#edf2c2", "#d3ed95", "#addd8e", "#78c679", "#31a354", "#006837"]
+                    }
+
                 },
                 "tooltip": [
                     {"field": "State", "type": "nominal"},
@@ -74,7 +79,7 @@
                 ]
             }
         },
-        {    "data": {
+        {   "data": {
             "url": "./drug_addicts_by_state_my.csv"
         },
             "transform": [
@@ -109,7 +114,7 @@
                 "text": {"field": "State", "type": "nominal"},  
                 "longitude": {"field": "geo.properties.longitude", "type": "quantitative"},  
                 "latitude": {"field": "geo.properties.latitude", "type": "quantitative"},   
-                "opacity": {"value": 0.3},
+                "opacity": {"value": 0.25},
                 "tooltip": [
                     {"field": "State", "type": "nominal"},
                     {"field": "Drug Addicts per 1000 people", "type": "quantitative", "format": ".2f"}

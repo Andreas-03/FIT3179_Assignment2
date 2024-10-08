@@ -1,77 +1,76 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "Drug Addicts by State from 2010 to 2021",
+    "title": "Total Drug Addicts in Malaysia from 2010 to 2021",
     "data": {"url": "drug_addicts_by_state_my.csv"},
     "width": 600,
     "height": 300,
-    "transform": [
-      {"filter": "State_selection == null || datum.State == State_selection"}
-    ],
-    "params": [
-    {
-        "name": "State_selection", 
-        "bind": {
-            "input": "select",
-            "options": [
-                null, "Johor", "Kedah", "Kelantan", "Melaka",
-                "Negeri Sembilan", "Pahang", "Perak",
-                "Perlis", "Pulau Pinang", "Sabah",
-                "Sarawak", "Selangor", "Terengganu",
-                "Kuala Lumpur", "Labuan", "Putrajaya"
-            ],
-            "labels": [
-                "Show All","Johor", "Kedah", "Kelantan", "Melaka",
-                "Negeri Sembilan", "Pahang", "Perak",
-                "Perlis", "Pulau Pinang", "Sabah",
-                "Sarawak", "Selangor", "Terengganu",
-                "Kuala Lumpur", "Labuan", "Putrajaya"
-                ],
-            "name": "State Selection: "
-            }
-        }
-    ],
-    "layer":[
+    "layer": [
         {
         "mark": {
-            "type": "line",
-            "point": true
-            },
+          "type": "line",
+          "point": true
+        },
         "encoding": {
-            "x": {"field": "Year"},
-            "y": {"field": "Value", "type": "quantitative"},
-            "color": {"field": "State", "type": "nominal", "scale": {"scheme": "tableau20"}},
-            "tooltip": [
-                {"field": "State", "type": "nominal"},
-                {"field": "Year", "type": "ordinal"},
-                {"field": "Value", "type": "quantitative", "format": ",", "title": "Drug Addicts"} 
+          "x": {"field": "Year", "type": "ordinal"},
+          "y": {"field": "Value", "type": "quantitative", "aggregate": "sum", "title": "Total Drug Addicts"},
+          "color": {"value": "green"}, 
+          "tooltip": [
+            {"field": "Year", "type": "ordinal"},
+            {"field": "sum_Value", "type": "quantitative", "title": "Total Drug Addicts", "format": ","}
                 ]
             }
         },
         {
+        "transform": [
+            {
+            "filter": "datum.Year == 2016"
+                }
+            ],
         "mark": {
             "type": "text",
             "align": "right",
             "baseline": "middle",
-            "dx": -25,
+            "dx": -20,
+            "dy": -15,
             "fontSize": 10,
             "fontWeight": "normal",
             "lineBreak": "\n"
             },
-        "transform": [
-            {"filter": "datum.Year == 2016 && datum.State == 'Pulau Pinang'"}
-            ],
         "encoding": {
             "x": {"field": "Year"},
-            "y": {"field": "Value", "type": "quantitative"},
-            "text": {"value": "Highest number of drug addicts\nacross all states\nbetween 2010 and 2021"},
-            "color": {"value": "black"},
-            "tooltip": [
-            {"field": "State", "type": "nominal"},
-            {"field": "Year", "type": "ordinal"},
-            {"field": "Value", "type": "quantitative", "format": ",", "title": "Drug Addicts"} 
-                ]
+            "y": {"field": "Value", "type": "quantitative","aggregate": "sum"},
+            "text": {
+            "value": "Peak number\nof drug addicts\nin the last decade"
+            },
+            "color": {"value": "black"}
+            }
+        },
+        {
+        "transform": [
+            {
+            "filter": "datum.Year == 2012"
+                }
+            ],
+        "mark": {
+            "type": "text",
+            "align": "left",
+            "baseline": "middle",
+            "dx": 15,
+            "dy": -15,
+            "fontSize": 10,
+            "fontWeight": "normal",
+            "lineBreak": "\n"
+            },
+        "encoding": {
+            "x": {"field": "Year"},
+            "y": {"field": "Value", "type": "quantitative","aggregate": "sum"},
+            "text": {
+            "value": "Lowest number\nof drug addicts\nin the last decade"
+            },
+            "color": {"value": "black"}
             }
         }
     ]
 }
+
   
