@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": {
-        "text": "Drug Use by Country in 2019",
+        "text": "Drug Use Estimates by Country in 2019",
         "offset": 20
     },
     "data": {"url": "drug_use_by_country_2019.csv"},
