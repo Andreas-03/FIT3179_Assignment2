@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": {
-        "text": "Prevalence of Drug Use and Regional Estimates in 2021",
+        "text": "Prevalence of Illicit Drug Use and Regional Estimates in 2021",
         "offset": 20
     },
     "data": {"url": "Prevalence_of_drug_use_and_regional_estimates.csv"},
@@ -24,8 +24,7 @@
         ],
         "mark": 
             {
-            "type": "arc",
-            "innerRadius": 50
+            "type": "arc"
             },
         "encoding": 
             {
