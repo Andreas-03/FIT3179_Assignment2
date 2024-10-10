@@ -3,6 +3,7 @@ var vg_2 = "polar_area_chart_schema.json";
 var vg_3 = "map_schema.json";
 var vg_4 = "line_plot_schema.json";
 var vg_5 = "grouped_bar_chart_schema.json";
+var vg_6 = "box_plot_schema.json";
 
 
 vegaEmbed("#bubble_chart", vg_1).then(function(result) {
@@ -22,5 +23,9 @@ vegaEmbed("#line_plot", vg_4).then(function(result) {
 }).catch(console.error);
 
 vegaEmbed("#grouped_bar_chart", vg_5).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+}).catch(console.error);
+
+vegaEmbed("#box_plot", vg_6).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
 }).catch(console.error);

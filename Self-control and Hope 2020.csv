@@ -1,0 +1,2685 @@
+﻿ID,Aspect,Measure,Score
+P001,Impulsivity,Self-control,3.25
+P002,Impulsivity,Self-control,2.5
+P001,Simple Tasks,Self-control,2
+P001,Risk Seeking,Self-control,2.25
+P001,Physically Active,Self-control,2.333333333
+P001,Self-centered,Self-control,3
+P001,Temperament,Self-control,2.75
+P001,Future,Hope,2.4
+P001,Interconnectedness,Hope,2.3
+P001,Optimism,Hope,2.3
+P001,Overall Self-control,Self-control,2.416666667
+P001,Overall Hope,Hope,2.333333333
+P002,Simple Tasks,Self-control,2
+P002,Risk Seeking,Self-control,2.25
+P002,Physically Active,Self-control,2.333333333
+P002,Self-centered,Self-control,3
+P002,Temperament,Self-control,3
+P002,Future,Hope,2.7
+P002,Interconnectedness,Hope,2.2
+P002,Optimism,Hope,2.4
+P002,Overall Self-control,Self-control,2.333333333
+P002,Overall Hope,Hope,2.433333333
+P003,Impulsivity,Self-control,2.5
+P003,Simple Tasks,Self-control,2
+P003,Risk Seeking,Self-control,2.25
+P003,Physically Active,Self-control,2
+P003,Self-centered,Self-control,2.75
+P003,Temperament,Self-control,2
+P003,Future,Hope,2.7
+P003,Interconnectedness,Hope,2.2
+P003,Optimism,Hope,2.4
+P003,Overall Self-control,Self-control,2.083333333
+P003,Overall Hope,Hope,2.433333333
+P004,Impulsivity,Self-control,3.25
+P004,Simple Tasks,Self-control,2.333333333
+P004,Risk Seeking,Self-control,3
+P004,Physically Active,Self-control,2
+P004,Self-centered,Self-control,2.75
+P004,Temperament,Self-control,3
+P004,Future,Hope,2.3
+P004,Interconnectedness,Hope,2.6
+P004,Optimism,Hope,2.8
+P004,Overall Self-control,Self-control,2.541666667
+P004,Overall Hope,Hope,2.566666667
+P005,Impulsivity,Self-control,2.5
+P005,Simple Tasks,Self-control,2.666666667
+P005,Risk Seeking,Self-control,3.25
+P005,Physically Active,Self-control,2
+P005,Self-centered,Self-control,3
+P005,Temperament,Self-control,2.75
+P005,Future,Hope,1.4
+P005,Interconnectedness,Hope,2
+P005,Optimism,Hope,1.8
+P005,Overall Self-control,Self-control,2.5
+P005,Overall Hope,Hope,1.733333333
+P006,Impulsivity,Self-control,1.75
+P006,Simple Tasks,Self-control,2.333333333
+P006,Risk Seeking,Self-control,2.5
+P006,Physically Active,Self-control,1.666666667
+P006,Self-centered,Self-control,4
+P006,Temperament,Self-control,4
+P006,Future,Hope,2.7
+P006,Interconnectedness,Hope,2.1
+P006,Optimism,Hope,2.2
+P006,Overall Self-control,Self-control,2.541666667
+P006,Overall Hope,Hope,1.733333333
+P007,Impulsivity,Self-control,2.5
+P007,Simple Tasks,Self-control,2.666666667
+P007,Risk Seeking,Self-control,3.25
+P007,Physically Active,Self-control,2
+P007,Self-centered,Self-control,3
+P007,Temperament,Self-control,2.75
+P007,Future,Hope,1.2
+P007,Interconnectedness,Hope,1.7
+P007,Optimism,Hope,1.7
+P007,Overall Self-control,Self-control,2.5
+P007,Overall Hope,Hope,1.533333333
+P008,Impulsivity,Self-control,2.5
+P008,Simple Tasks,Self-control,2.666666667
+P008,Risk Seeking,Self-control,3.25
+P008,Physically Active,Self-control,2
+P008,Self-centered,Self-control,3
+P008,Temperament,Self-control,2.75
+P008,Future,Hope,1.2
+P008,Interconnectedness,Hope,1.7
+P008,Optimism,Hope,1.7
+P008,Overall Self-control,Self-control,2.5
+P008,Overall Hope,Hope,1.533333333
+P009,Impulsivity,Self-control,2.5
+P009,Simple Tasks,Self-control,2.666666667
+P009,Risk Seeking,Self-control,3.25
+P009,Physically Active,Self-control,2
+P009,Self-centered,Self-control,3
+P009,Temperament,Self-control,2.75
+P009,Future,Hope,1.2
+P009,Interconnectedness,Hope,1.7
+P009,Optimism,Hope,1.7
+P009,Overall Self-control,Self-control,2.5
+P009,Overall Hope,Hope,1.533333333
+P010,Impulsivity,Self-control,2.5
+P010,Simple Tasks,Self-control,2.333333333
+P010,Risk Seeking,Self-control,3.25
+P010,Physically Active,Self-control,2.333333333
+P010,Self-centered,Self-control,3.25
+P010,Temperament,Self-control,3.25
+P010,Future,Hope,1.7
+P010,Interconnectedness,Hope,1.9
+P010,Optimism,Hope,1.9
+P010,Overall Self-control,Self-control,2.625
+P010,Overall Hope,Hope,1.833333333
+P011,Impulsivity,Self-control,3
+P011,Simple Tasks,Self-control,2.333333333
+P011,Risk Seeking,Self-control,2.75
+P011,Physically Active,Self-control,1.333333333
+P011,Self-centered,Self-control,3.5
+P011,Temperament,Self-control,2.25
+P011,Future,Hope,2.7
+P011,Interconnectedness,Hope,2.5
+P011,Optimism,Hope,2.5
+P011,Overall Self-control,Self-control,2.375
+P011,Overall Hope,Hope,2.566666667
+P012,Impulsivity,Self-control,2.75
+P012,Simple Tasks,Self-control,2.666666667
+P012,Risk Seeking,Self-control,2.25
+P012,Physically Active,Self-control,3
+P012,Self-centered,Self-control,3.5
+P012,Temperament,Self-control,2.5
+P012,Future,Hope,2.7
+P012,Interconnectedness,Hope,2.2
+P012,Optimism,Hope,2.5
+P012,Overall Self-control,Self-control,2.541666667
+P012,Overall Hope,Hope,2.466666667
+P013,Impulsivity,Self-control,2.5
+P013,Simple Tasks,Self-control,2.333333333
+P013,Risk Seeking,Self-control,2
+P013,Physically Active,Self-control,2.666666667
+P013,Self-centered,Self-control,3
+P013,Temperament,Self-control,2.5
+P013,Future,Hope,2.4
+P013,Interconnectedness,Hope,1.8
+P013,Optimism,Hope,2.4
+P013,Overall Self-control,Self-control,2.291666667
+P013,Overall Hope,Hope,2.2
+P014,Impulsivity,Self-control,3
+P014,Simple Tasks,Self-control,2.333333333
+P014,Risk Seeking,Self-control,2.5
+P014,Physically Active,Self-control,2.666666667
+P014,Self-centered,Self-control,2.75
+P014,Temperament,Self-control,3
+P014,Future,Hope,2.4
+P014,Interconnectedness,Hope,2
+P014,Optimism,Hope,2.2
+P014,Overall Self-control,Self-control,2.5
+P014,Overall Hope,Hope,2.2
+P015,Impulsivity,Self-control,2.5
+P015,Simple Tasks,Self-control,2
+P015,Risk Seeking,Self-control,2.5
+P015,Physically Active,Self-control,2
+P015,Self-centered,Self-control,1.75
+P015,Temperament,Self-control,2.5
+P015,Future,Hope,2.7
+P015,Interconnectedness,Hope,2.1
+P015,Optimism,Hope,2.4
+P015,Overall Self-control,Self-control,2.041666667
+P015,Overall Hope,Hope,2.4
+P016,Impulsivity,Self-control,2.75
+P016,Simple Tasks,Self-control,2.333333333
+P016,Risk Seeking,Self-control,2.25
+P016,Physically Active,Self-control,2
+P016,Self-centered,Self-control,2.5
+P016,Temperament,Self-control,3.25
+P016,Future,Hope,2.6
+P016,Interconnectedness,Hope,1.4
+P016,Optimism,Hope,2.2
+P016,Overall Self-control,Self-control,2.333333333
+P016,Overall Hope,Hope,2.066666667
+P017,Impulsivity,Self-control,2.25
+P017,Simple Tasks,Self-control,1.666666667
+P017,Risk Seeking,Self-control,2.25
+P017,Physically Active,Self-control,1.666666667
+P017,Self-centered,Self-control,1.25
+P017,Temperament,Self-control,2.5
+P017,Future,Hope,0.5
+P017,Interconnectedness,Hope,0.9
+P017,Optimism,Hope,0.7
+P017,Overall Self-control,Self-control,1.791666667
+P017,Overall Hope,Hope,0.7
+P018,Impulsivity,Self-control,2.75
+P018,Simple Tasks,Self-control,2.333333333
+P018,Risk Seeking,Self-control,2.5
+P018,Physically Active,Self-control,2.666666667
+P018,Self-centered,Self-control,2.5
+P018,Temperament,Self-control,2.25
+P018,Future,Hope,2
+P018,Interconnectedness,Hope,2.3
+P018,Optimism,Hope,2.1
+P018,Overall Self-control,Self-control,2.291666667
+P018,Overall Hope,Hope,2.133333333
+P019,Impulsivity,Self-control,2.25
+P019,Simple Tasks,Self-control,2
+P019,Risk Seeking,Self-control,2.25
+P019,Physically Active,Self-control,2.666666667
+P019,Self-centered,Self-control,2.5
+P019,Temperament,Self-control,2.25
+P019,Future,Hope,1.6
+P019,Interconnectedness,Hope,1.9
+P019,Optimism,Hope,2.2
+P019,Overall Self-control,Self-control,2.125
+P019,Overall Hope,Hope,1.9
+P020,Impulsivity,Self-control,2.75
+P020,Simple Tasks,Self-control,2.666666667
+P020,Risk Seeking,Self-control,2.25
+P020,Physically Active,Self-control,2.333333333
+P020,Self-centered,Self-control,2.75
+P020,Temperament,Self-control,2.75
+P020,Future,Hope,2
+P020,Interconnectedness,Hope,2.3
+P020,Optimism,Hope,2
+P020,Overall Self-control,Self-control,2.375
+P020,Overall Hope,Hope,2.1
+P021,Impulsivity,Self-control,3
+P021,Simple Tasks,Self-control,2
+P021,Risk Seeking,Self-control,2.5
+P021,Physically Active,Self-control,2
+P021,Self-centered,Self-control,3.5
+P021,Temperament,Self-control,3.75
+P021,Future,Hope,2.3
+P021,Interconnectedness,Hope,1.9
+P021,Optimism,Hope,2
+P021,Overall Self-control,Self-control,2.625
+P021,Overall Hope,Hope,2.066666667
+P022,Impulsivity,Self-control,2.5
+P022,Simple Tasks,Self-control,2.666666667
+P022,Risk Seeking,Self-control,2.25
+P022,Physically Active,Self-control,2.333333333
+P022,Self-centered,Self-control,3
+P022,Temperament,Self-control,2.25
+P022,Future,Hope,2.4
+P022,Interconnectedness,Hope,2.4
+P022,Optimism,Hope,2.4
+P022,Overall Self-control,Self-control,2.291666667
+P022,Overall Hope,Hope,2.4
+P023,Impulsivity,Self-control,3
+P023,Simple Tasks,Self-control,2.666666667
+P023,Risk Seeking,Self-control,2
+P023,Physically Active,Self-control,1.666666667
+P023,Self-centered,Self-control,1.25
+P023,Temperament,Self-control,2.5
+P023,Future,Hope,2.6
+P023,Interconnectedness,Hope,2.2
+P023,Optimism,Hope,2
+P023,Overall Self-control,Self-control,2
+P023,Overall Hope,Hope,2.266666667
+P024,Impulsivity,Self-control,2.75
+P024,Simple Tasks,Self-control,2.333333333
+P024,Risk Seeking,Self-control,2.75
+P024,Physically Active,Self-control,2.666666667
+P024,Self-centered,Self-control,3
+P024,Temperament,Self-control,2
+P024,Future,Hope,2.4
+P024,Interconnectedness,Hope,2.6
+P024,Optimism,Hope,2.6
+P024,Overall Self-control,Self-control,2.375
+P024,Overall Hope,Hope,2.533333333
+P025,Impulsivity,Self-control,2.5
+P025,Simple Tasks,Self-control,2.333333333
+P025,Risk Seeking,Self-control,2.25
+P025,Physically Active,Self-control,2.666666667
+P025,Self-centered,Self-control,3
+P025,Temperament,Self-control,2.25
+P025,Future,Hope,2.6
+P025,Interconnectedness,Hope,2.4
+P025,Optimism,Hope,2.5
+P025,Overall Self-control,Self-control,2.291666667
+P025,Overall Hope,Hope,2.5
+P026,Impulsivity,Self-control,3
+P026,Simple Tasks,Self-control,2
+P026,Risk Seeking,Self-control,2.5
+P026,Physically Active,Self-control,2
+P026,Self-centered,Self-control,2.5
+P026,Temperament,Self-control,2.5
+P026,Future,Hope,2.3
+P026,Interconnectedness,Hope,2.6
+P026,Optimism,Hope,2.6
+P026,Overall Self-control,Self-control,2.25
+P026,Overall Hope,Hope,2.5
+P027,Impulsivity,Self-control,3
+P027,Simple Tasks,Self-control,2
+P027,Risk Seeking,Self-control,2.5
+P027,Physically Active,Self-control,2
+P027,Self-centered,Self-control,2.5
+P027,Temperament,Self-control,2.5
+P027,Future,Hope,1.3
+P027,Interconnectedness,Hope,1.5
+P027,Optimism,Hope,1.4
+P027,Overall Self-control,Self-control,2.25
+P027,Overall Hope,Hope,1.4
+P028,Impulsivity,Self-control,2.5
+P028,Simple Tasks,Self-control,2.666666667
+P028,Risk Seeking,Self-control,2.25
+P028,Physically Active,Self-control,2.333333333
+P028,Self-centered,Self-control,3.25
+P028,Temperament,Self-control,2.25
+P028,Future,Hope,1.1
+P028,Interconnectedness,Hope,1.5
+P028,Optimism,Hope,1.3
+P028,Overall Self-control,Self-control,2.333333333
+P028,Overall Hope,Hope,1.3
+P029,Impulsivity,Self-control,3
+P029,Simple Tasks,Self-control,3
+P029,Risk Seeking,Self-control,3
+P029,Physically Active,Self-control,2.333333333
+P029,Self-centered,Self-control,3.25
+P029,Temperament,Self-control,3.25
+P029,Future,Hope,2.7
+P029,Interconnectedness,Hope,2.4
+P029,Optimism,Hope,2.4
+P029,Overall Self-control,Self-control,2.75
+P029,Overall Hope,Hope,2.5
+P030,Impulsivity,Self-control,2.25
+P030,Simple Tasks,Self-control,2.333333333
+P030,Risk Seeking,Self-control,2.5
+P030,Physically Active,Self-control,2.666666667
+P030,Self-centered,Self-control,3
+P030,Temperament,Self-control,3
+P030,Future,Hope,1.4
+P030,Interconnectedness,Hope,1.2
+P030,Optimism,Hope,1.4
+P030,Overall Self-control,Self-control,2.416666667
+P030,Overall Hope,Hope,1.333333333
+P031,Impulsivity,Self-control,3.5
+P031,Simple Tasks,Self-control,2.666666667
+P031,Risk Seeking,Self-control,2.5
+P031,Physically Active,Self-control,2.666666667
+P031,Self-centered,Self-control,3
+P031,Temperament,Self-control,3
+P031,Future,Hope,2.1
+P031,Interconnectedness,Hope,2.1
+P031,Optimism,Hope,2.6
+P031,Overall Self-control,Self-control,2.666666667
+P031,Overall Hope,Hope,2.266666667
+P032,Impulsivity,Self-control,2.5
+P032,Simple Tasks,Self-control,3
+P032,Risk Seeking,Self-control,2.5
+P032,Physically Active,Self-control,1.666666667
+P032,Self-centered,Self-control,2.5
+P032,Temperament,Self-control,2.25
+P032,Future,Hope,2.2
+P032,Interconnectedness,Hope,1.6
+P032,Optimism,Hope,1.9
+P032,Overall Self-control,Self-control,2.208333333
+P032,Overall Hope,Hope,1.9
+P033,Impulsivity,Self-control,2.5
+P033,Simple Tasks,Self-control,2
+P033,Risk Seeking,Self-control,2
+P033,Physically Active,Self-control,1.333333333
+P033,Self-centered,Self-control,3.75
+P033,Temperament,Self-control,2.25
+P033,Future,Hope,1.2
+P033,Interconnectedness,Hope,1.7
+P033,Optimism,Hope,1.7
+P033,Overall Self-control,Self-control,2.166666667
+P033,Overall Hope,Hope,1.533333333
+P034,Impulsivity,Self-control,2
+P034,Simple Tasks,Self-control,1.666666667
+P034,Risk Seeking,Self-control,2.5
+P034,Physically Active,Self-control,2.333333333
+P034,Self-centered,Self-control,2
+P034,Temperament,Self-control,2.25
+P034,Future,Hope,2.4
+P034,Interconnectedness,Hope,2.2
+P034,Optimism,Hope,2.2
+P034,Overall Self-control,Self-control,1.958333333
+P034,Overall Hope,Hope,2.266666667
+P035,Impulsivity,Self-control,2.25
+P035,Simple Tasks,Self-control,2.333333333
+P035,Risk Seeking,Self-control,1.75
+P035,Physically Active,Self-control,1.666666667
+P035,Self-centered,Self-control,4
+P035,Temperament,Self-control,3.25
+P035,Future,Hope,1.5
+P035,Interconnectedness,Hope,1.4
+P035,Optimism,Hope,1.6
+P035,Overall Self-control,Self-control,2.375
+P035,Overall Hope,Hope,1.5
+P036,Impulsivity,Self-control,3
+P036,Simple Tasks,Self-control,2.666666667
+P036,Risk Seeking,Self-control,2
+P036,Physically Active,Self-control,1.666666667
+P036,Self-centered,Self-control,1.25
+P036,Temperament,Self-control,2.5
+P036,Future,Hope,2.3
+P036,Interconnectedness,Hope,1.7
+P036,Optimism,Hope,1.8
+P036,Overall Self-control,Self-control,2
+P036,Overall Hope,Hope,1.933333333
+P037,Impulsivity,Self-control,2.5
+P037,Simple Tasks,Self-control,2
+P037,Risk Seeking,Self-control,2.5
+P037,Physically Active,Self-control,2.333333333
+P037,Self-centered,Self-control,2.5
+P037,Temperament,Self-control,2.5
+P037,Future,Hope,1.9
+P037,Interconnectedness,Hope,1.7
+P037,Optimism,Hope,1.9
+P037,Overall Self-control,Self-control,2.208333333
+P037,Overall Hope,Hope,1.833333333
+P038,Impulsivity,Self-control,2
+P038,Simple Tasks,Self-control,2
+P038,Risk Seeking,Self-control,3
+P038,Physically Active,Self-control,3.333333333
+P038,Self-centered,Self-control,3
+P038,Temperament,Self-control,2.25
+P038,Future,Hope,2.7
+P038,Interconnectedness,Hope,2.3
+P038,Optimism,Hope,1.9
+P038,Overall Self-control,Self-control,2.375
+P038,Overall Hope,Hope,2.3
+P039,Impulsivity,Self-control,3.25
+P039,Simple Tasks,Self-control,1.666666667
+P039,Risk Seeking,Self-control,2.75
+P039,Physically Active,Self-control,1.666666667
+P039,Self-centered,Self-control,4
+P039,Temperament,Self-control,3.25
+P039,Future,Hope,2.6
+P039,Interconnectedness,Hope,2.3
+P039,Optimism,Hope,2.7
+P039,Overall Self-control,Self-control,2.625
+P039,Overall Hope,Hope,2.533333333
+P040,Impulsivity,Self-control,2.5
+P040,Simple Tasks,Self-control,2.333333333
+P040,Risk Seeking,Self-control,2.5
+P040,Physically Active,Self-control,2.333333333
+P040,Self-centered,Self-control,2.75
+P040,Temperament,Self-control,2.5
+P040,Future,Hope,2.3
+P040,Interconnectedness,Hope,2.1
+P040,Optimism,Hope,2.1
+P040,Overall Self-control,Self-control,2.291666667
+P040,Overall Hope,Hope,2.166666667
+P041,Impulsivity,Self-control,3
+P041,Simple Tasks,Self-control,2
+P041,Risk Seeking,Self-control,2.25
+P041,Physically Active,Self-control,2.666666667
+P041,Self-centered,Self-control,2.5
+P041,Temperament,Self-control,2.5
+P041,Future,Hope,2.3
+P041,Interconnectedness,Hope,2
+P041,Optimism,Hope,2
+P041,Overall Self-control,Self-control,2.291666667
+P041,Overall Hope,Hope,2.1
+P042,Impulsivity,Self-control,2.75
+P042,Simple Tasks,Self-control,2.333333333
+P042,Risk Seeking,Self-control,2.5
+P042,Physically Active,Self-control,2.666666667
+P042,Self-centered,Self-control,3.25
+P042,Temperament,Self-control,3
+P042,Future,Hope,2.3
+P042,Interconnectedness,Hope,2
+P042,Optimism,Hope,2
+P042,Overall Self-control,Self-control,2.541666667
+P042,Overall Hope,Hope,2.1
+P043,Impulsivity,Self-control,4
+P043,Simple Tasks,Self-control,4
+P043,Risk Seeking,Self-control,2.5
+P043,Physically Active,Self-control,2
+P043,Self-centered,Self-control,4
+P043,Temperament,Self-control,3.25
+P043,Future,Hope,2.9
+P043,Interconnectedness,Hope,3
+P043,Optimism,Hope,2.5
+P043,Overall Self-control,Self-control,3.041666667
+P043,Overall Hope,Hope,2.8
+P044,Impulsivity,Self-control,2.5
+P044,Simple Tasks,Self-control,2.333333333
+P044,Risk Seeking,Self-control,2
+P044,Physically Active,Self-control,2
+P044,Self-centered,Self-control,3
+P044,Temperament,Self-control,3
+P044,Future,Hope,2.2
+P044,Interconnectedness,Hope,1.8
+P044,Optimism,Hope,2.1
+P044,Overall Self-control,Self-control,2.291666667
+P044,Overall Hope,Hope,2.033333333
+P045,Impulsivity,Self-control,3
+P045,Simple Tasks,Self-control,3
+P045,Risk Seeking,Self-control,3.25
+P045,Physically Active,Self-control,2
+P045,Self-centered,Self-control,3
+P045,Temperament,Self-control,3.75
+P045,Future,Hope,1.9
+P045,Interconnectedness,Hope,1.6
+P045,Optimism,Hope,2.3
+P045,Overall Self-control,Self-control,2.791666667
+P045,Overall Hope,Hope,1.933333333
+P046,Impulsivity,Self-control,2.5
+P046,Simple Tasks,Self-control,2.666666667
+P046,Risk Seeking,Self-control,2.25
+P046,Physically Active,Self-control,2.666666667
+P046,Self-centered,Self-control,2.5
+P046,Temperament,Self-control,3
+P046,Future,Hope,2
+P046,Interconnectedness,Hope,2.2
+P046,Optimism,Hope,1.7
+P046,Overall Self-control,Self-control,2.375
+P046,Overall Hope,Hope,1.966666667
+P047,Impulsivity,Self-control,3.25
+P047,Simple Tasks,Self-control,2.333333333
+P047,Risk Seeking,Self-control,3
+P047,Physically Active,Self-control,2
+P047,Self-centered,Self-control,2.25
+P047,Temperament,Self-control,2.5
+P047,Future,Hope,2.2
+P047,Interconnectedness,Hope,2
+P047,Optimism,Hope,2
+P047,Overall Self-control,Self-control,2.375
+P047,Overall Hope,Hope,2.066666667
+P048,Impulsivity,Self-control,2.75
+P048,Simple Tasks,Self-control,2.666666667
+P048,Risk Seeking,Self-control,3
+P048,Physically Active,Self-control,2.666666667
+P048,Self-centered,Self-control,3
+P048,Temperament,Self-control,2.75
+P048,Future,Hope,2.5
+P048,Interconnectedness,Hope,2.4
+P048,Optimism,Hope,2.5
+P048,Overall Self-control,Self-control,2.583333333
+P048,Overall Hope,Hope,2.466666667
+P049,Impulsivity,Self-control,3
+P049,Simple Tasks,Self-control,2.666666667
+P049,Risk Seeking,Self-control,2.25
+P049,Physically Active,Self-control,2
+P049,Self-centered,Self-control,2.5
+P049,Temperament,Self-control,3
+P049,Future,Hope,2.4
+P049,Interconnectedness,Hope,2.9
+P049,Optimism,Hope,2.3
+P049,Overall Self-control,Self-control,2.375
+P049,Overall Hope,Hope,2.533333333
+P050,Impulsivity,Self-control,2.5
+P050,Simple Tasks,Self-control,2.333333333
+P050,Risk Seeking,Self-control,2.5
+P050,Physically Active,Self-control,2.333333333
+P050,Self-centered,Self-control,2.75
+P050,Temperament,Self-control,2.5
+P050,Future,Hope,2.2
+P050,Interconnectedness,Hope,2.1
+P050,Optimism,Hope,2.2
+P050,Overall Self-control,Self-control,2.291666667
+P050,Overall Hope,Hope,2.166666667
+P051,Impulsivity,Self-control,2.5
+P051,Simple Tasks,Self-control,2.333333333
+P051,Risk Seeking,Self-control,2.5
+P051,Physically Active,Self-control,2.333333333
+P051,Self-centered,Self-control,2.5
+P051,Temperament,Self-control,3
+P051,Future,Hope,2.4
+P051,Interconnectedness,Hope,2.1
+P051,Optimism,Hope,2.4
+P051,Overall Self-control,Self-control,2.333333333
+P051,Overall Hope,Hope,2.3
+P052,Impulsivity,Self-control,2
+P052,Simple Tasks,Self-control,2.666666667
+P052,Risk Seeking,Self-control,2.25
+P052,Physically Active,Self-control,2.666666667
+P052,Self-centered,Self-control,1.75
+P052,Temperament,Self-control,2.75
+P052,Future,Hope,1.4
+P052,Interconnectedness,Hope,2.1
+P052,Optimism,Hope,1.4
+P052,Overall Self-control,Self-control,2.125
+P052,Overall Hope,Hope,1.633333333
+P053,Impulsivity,Self-control,2.75
+P053,Simple Tasks,Self-control,2.333333333
+P053,Risk Seeking,Self-control,2.25
+P053,Physically Active,Self-control,2.666666667
+P053,Self-centered,Self-control,3
+P053,Temperament,Self-control,2.5
+P053,Future,Hope,2.2
+P053,Interconnectedness,Hope,2.2
+P053,Optimism,Hope,1.8
+P053,Overall Self-control,Self-control,2.375
+P053,Overall Hope,Hope,2.066666667
+P054,Impulsivity,Self-control,3.25
+P054,Simple Tasks,Self-control,2
+P054,Risk Seeking,Self-control,4
+P054,Physically Active,Self-control,3
+P054,Self-centered,Self-control,4
+P054,Temperament,Self-control,4
+P054,Future,Hope,2.7
+P054,Interconnectedness,Hope,1.8
+P054,Optimism,Hope,2.2
+P054,Overall Self-control,Self-control,3.166666667
+P054,Overall Hope,Hope,2.233333333
+P055,Impulsivity,Self-control,2.5
+P055,Simple Tasks,Self-control,2
+P055,Risk Seeking,Self-control,2.5
+P055,Physically Active,Self-control,2
+P055,Self-centered,Self-control,2.5
+P055,Temperament,Self-control,2.5
+P055,Future,Hope,2.7
+P055,Interconnectedness,Hope,2.1
+P055,Optimism,Hope,2.4
+P055,Overall Self-control,Self-control,2.166666667
+P055,Overall Hope,Hope,2.4
+P056,Impulsivity,Self-control,3
+P056,Simple Tasks,Self-control,1.666666667
+P056,Risk Seeking,Self-control,1.5
+P056,Physically Active,Self-control,1.666666667
+P056,Self-centered,Self-control,1.75
+P056,Temperament,Self-control,3.25
+P056,Future,Hope,1.9
+P056,Interconnectedness,Hope,1.5
+P056,Optimism,Hope,2.2
+P056,Overall Self-control,Self-control,2
+P056,Overall Hope,Hope,1.866666667
+P057,Impulsivity,Self-control,2.5
+P057,Simple Tasks,Self-control,2.333333333
+P057,Risk Seeking,Self-control,2.25
+P057,Physically Active,Self-control,2.333333333
+P057,Self-centered,Self-control,3
+P057,Temperament,Self-control,3
+P057,Future,Hope,1.9
+P057,Interconnectedness,Hope,2
+P057,Optimism,Hope,1.9
+P057,Overall Self-control,Self-control,2.375
+P057,Overall Hope,Hope,1.933333333
+P058,Impulsivity,Self-control,2.5
+P058,Simple Tasks,Self-control,2.666666667
+P058,Risk Seeking,Self-control,2.75
+P058,Physically Active,Self-control,2.666666667
+P058,Self-centered,Self-control,3
+P058,Temperament,Self-control,2.25
+P058,Future,Hope,1.6
+P058,Interconnectedness,Hope,1.5
+P058,Optimism,Hope,2
+P058,Overall Self-control,Self-control,2.416666667
+P058,Overall Hope,Hope,1.7
+P059,Impulsivity,Self-control,3.25
+P059,Simple Tasks,Self-control,2.666666667
+P059,Risk Seeking,Self-control,2.5
+P059,Physically Active,Self-control,2
+P059,Self-centered,Self-control,3.25
+P059,Temperament,Self-control,2
+P059,Future,Hope,1.8
+P059,Interconnectedness,Hope,1.7
+P059,Optimism,Hope,2.5
+P059,Overall Self-control,Self-control,2.416666667
+P059,Overall Hope,Hope,2
+P060,Impulsivity,Self-control,3
+P060,Simple Tasks,Self-control,2
+P060,Risk Seeking,Self-control,3
+P060,Physically Active,Self-control,2.666666667
+P060,Self-centered,Self-control,2.75
+P060,Temperament,Self-control,3
+P060,Future,Hope,2.7
+P060,Interconnectedness,Hope,2.1
+P060,Optimism,Hope,2.4
+P060,Overall Self-control,Self-control,2.541666667
+P060,Overall Hope,Hope,2.4
+P061,Impulsivity,Self-control,3
+P061,Simple Tasks,Self-control,2.333333333
+P061,Risk Seeking,Self-control,2.75
+P061,Physically Active,Self-control,2
+P061,Self-centered,Self-control,3.5
+P061,Temperament,Self-control,3.25
+P061,Future,Hope,2.5
+P061,Interconnectedness,Hope,2.4
+P061,Optimism,Hope,2.4
+P061,Overall Self-control,Self-control,2.625
+P061,Overall Hope,Hope,2.433333333
+P062,Impulsivity,Self-control,3.25
+P062,Simple Tasks,Self-control,3
+P062,Risk Seeking,Self-control,2.75
+P062,Physically Active,Self-control,2.666666667
+P062,Self-centered,Self-control,3.25
+P062,Temperament,Self-control,3.5
+P062,Future,Hope,2.5
+P062,Interconnectedness,Hope,2.6
+P062,Optimism,Hope,2.5
+P062,Overall Self-control,Self-control,2.833333333
+P062,Overall Hope,Hope,2.533333333
+P063,Impulsivity,Self-control,3
+P063,Simple Tasks,Self-control,2
+P063,Risk Seeking,Self-control,1.75
+P063,Physically Active,Self-control,2.333333333
+P063,Self-centered,Self-control,2.75
+P063,Temperament,Self-control,2.75
+P063,Future,Hope,2.4
+P063,Interconnectedness,Hope,2.5
+P063,Optimism,Hope,2.3
+P063,Overall Self-control,Self-control,2.25
+P063,Overall Hope,Hope,2.4
+P064,Impulsivity,Self-control,3.25
+P064,Simple Tasks,Self-control,2.333333333
+P064,Risk Seeking,Self-control,2.5
+P064,Physically Active,Self-control,2.333333333
+P064,Self-centered,Self-control,2.75
+P064,Temperament,Self-control,3
+P064,Future,Hope,2.5
+P064,Interconnectedness,Hope,2.3
+P064,Optimism,Hope,2.3
+P064,Overall Self-control,Self-control,2.5
+P064,Overall Hope,Hope,2.366666667
+P066,Impulsivity,Self-control,2.5
+P066,Simple Tasks,Self-control,2.333333333
+P066,Risk Seeking,Self-control,2.75
+P066,Physically Active,Self-control,2.666666667
+P066,Self-centered,Self-control,3
+P066,Temperament,Self-control,2.75
+P066,Future,Hope,2.3
+P066,Interconnectedness,Hope,1.8
+P066,Optimism,Hope,2.1
+P066,Overall Self-control,Self-control,2.458333333
+P066,Overall Hope,Hope,2.066666667
+P067,Impulsivity,Self-control,2.5
+P067,Simple Tasks,Self-control,2.666666667
+P067,Risk Seeking,Self-control,3.25
+P067,Physically Active,Self-control,2
+P067,Self-centered,Self-control,3.75
+P067,Temperament,Self-control,3.25
+P067,Future,Hope,1.9
+P067,Interconnectedness,Hope,2.3
+P067,Optimism,Hope,2.1
+P067,Overall Self-control,Self-control,2.708333333
+P067,Overall Hope,Hope,2.1
+P068,Impulsivity,Self-control,2.75
+P068,Simple Tasks,Self-control,2.333333333
+P068,Risk Seeking,Self-control,3
+P068,Physically Active,Self-control,2
+P068,Self-centered,Self-control,2.25
+P068,Temperament,Self-control,3
+P068,Future,Hope,2.1
+P068,Interconnectedness,Hope,1.9
+P068,Optimism,Hope,2.4
+P068,Overall Self-control,Self-control,2.375
+P068,Overall Hope,Hope,2.133333333
+P069,Impulsivity,Self-control,3
+P069,Simple Tasks,Self-control,1.333333333
+P069,Risk Seeking,Self-control,1.75
+P069,Physically Active,Self-control,1
+P069,Self-centered,Self-control,2.75
+P069,Temperament,Self-control,3
+P069,Future,Hope,2.4
+P069,Interconnectedness,Hope,2.3
+P069,Optimism,Hope,2.6
+P069,Overall Self-control,Self-control,2.041666667
+P069,Overall Hope,Hope,2.433333333
+P070,Impulsivity,Self-control,3.25
+P070,Simple Tasks,Self-control,2.333333333
+P070,Risk Seeking,Self-control,2.25
+P070,Physically Active,Self-control,3
+P070,Self-centered,Self-control,2
+P070,Temperament,Self-control,2.25
+P070,Future,Hope,1.7
+P070,Interconnectedness,Hope,2.1
+P070,Optimism,Hope,2.8
+P070,Overall Self-control,Self-control,2.291666667
+P070,Overall Hope,Hope,2.2
+P071,Impulsivity,Self-control,3
+P071,Simple Tasks,Self-control,2
+P071,Risk Seeking,Self-control,2.5
+P071,Physically Active,Self-control,2.333333333
+P071,Self-centered,Self-control,3
+P071,Temperament,Self-control,2.75
+P071,Future,Hope,2.1
+P071,Interconnectedness,Hope,2.8
+P071,Optimism,Hope,2.6
+P071,Overall Self-control,Self-control,2.416666667
+P071,Overall Hope,Hope,2.5
+P072,Impulsivity,Self-control,3
+P072,Simple Tasks,Self-control,2.333333333
+P072,Risk Seeking,Self-control,2.5
+P072,Physically Active,Self-control,2.333333333
+P072,Self-centered,Self-control,2.5
+P072,Temperament,Self-control,2.5
+P072,Future,Hope,2.7
+P072,Interconnectedness,Hope,2.4
+P072,Optimism,Hope,2.3
+P072,Overall Self-control,Self-control,2.333333333
+P072,Overall Hope,Hope,2.466666667
+P073,Impulsivity,Self-control,3
+P073,Simple Tasks,Self-control,2.666666667
+P073,Risk Seeking,Self-control,2.75
+P073,Physically Active,Self-control,2.333333333
+P073,Self-centered,Self-control,2.5
+P073,Temperament,Self-control,2.5
+P073,Future,Hope,2.6
+P073,Interconnectedness,Hope,2.3
+P073,Optimism,Hope,2.4
+P073,Overall Self-control,Self-control,2.416666667
+P073,Overall Hope,Hope,2.433333333
+P074,Impulsivity,Self-control,2.75
+P074,Simple Tasks,Self-control,2.333333333
+P074,Risk Seeking,Self-control,2.25
+P074,Physically Active,Self-control,2
+P074,Self-centered,Self-control,2.75
+P074,Temperament,Self-control,3
+P074,Future,Hope,2.4
+P074,Interconnectedness,Hope,2.4
+P074,Optimism,Hope,2.4
+P074,Overall Self-control,Self-control,2.333333333
+P074,Overall Hope,Hope,2.4
+P075,Impulsivity,Self-control,2.25
+P075,Simple Tasks,Self-control,2.666666667
+P075,Risk Seeking,Self-control,2.25
+P075,Physically Active,Self-control,2.333333333
+P075,Self-centered,Self-control,3.5
+P075,Temperament,Self-control,2.5
+P075,Future,Hope,1.9
+P075,Interconnectedness,Hope,2.1
+P075,Optimism,Hope,2.1
+P075,Overall Self-control,Self-control,2.375
+P075,Overall Hope,Hope,2.033333333
+P076,Impulsivity,Self-control,2.5
+P076,Simple Tasks,Self-control,2.666666667
+P076,Risk Seeking,Self-control,2.25
+P076,Physically Active,Self-control,3
+P076,Self-centered,Self-control,3.5
+P076,Temperament,Self-control,3
+P076,Future,Hope,1
+P076,Interconnectedness,Hope,1.5
+P076,Optimism,Hope,1.6
+P076,Overall Self-control,Self-control,2.583333333
+P076,Overall Hope,Hope,1.366666667
+P077,Impulsivity,Self-control,3.25
+P077,Simple Tasks,Self-control,2
+P077,Risk Seeking,Self-control,2.75
+P077,Physically Active,Self-control,1.666666667
+P077,Self-centered,Self-control,2.75
+P077,Temperament,Self-control,2.5
+P077,Future,Hope,2.7
+P077,Interconnectedness,Hope,1.8
+P077,Optimism,Hope,2.3
+P077,Overall Self-control,Self-control,2.333333333
+P077,Overall Hope,Hope,2.266666667
+P078,Impulsivity,Self-control,3
+P078,Simple Tasks,Self-control,2
+P078,Risk Seeking,Self-control,2.75
+P078,Physically Active,Self-control,3.333333333
+P078,Self-centered,Self-control,3
+P078,Temperament,Self-control,2.5
+P078,Future,Hope,1.7
+P078,Interconnectedness,Hope,2.1
+P078,Optimism,Hope,1.8
+P078,Overall Self-control,Self-control,2.541666667
+P078,Overall Hope,Hope,1.866666667
+P079,Impulsivity,Self-control,2.5
+P079,Simple Tasks,Self-control,2
+P079,Risk Seeking,Self-control,3
+P079,Physically Active,Self-control,2.333333333
+P079,Self-centered,Self-control,2.75
+P079,Temperament,Self-control,2.75
+P079,Future,Hope,1.5
+P079,Interconnectedness,Hope,2.2
+P079,Optimism,Hope,1.6
+P079,Overall Self-control,Self-control,2.375
+P079,Overall Hope,Hope,1.766666667
+P080,Impulsivity,Self-control,2.75
+P080,Simple Tasks,Self-control,2.333333333
+P080,Risk Seeking,Self-control,2.5
+P080,Physically Active,Self-control,2.666666667
+P080,Self-centered,Self-control,3
+P080,Temperament,Self-control,2.75
+P080,Future,Hope,2.3
+P080,Interconnectedness,Hope,1.7
+P080,Optimism,Hope,1.8
+P080,Overall Self-control,Self-control,2.458333333
+P080,Overall Hope,Hope,1.933333333
+P081,Impulsivity,Self-control,2.5
+P081,Simple Tasks,Self-control,2.666666667
+P081,Risk Seeking,Self-control,3
+P081,Physically Active,Self-control,2.666666667
+P081,Self-centered,Self-control,3
+P081,Temperament,Self-control,3
+P081,Future,Hope,1.8
+P081,Interconnectedness,Hope,2.1
+P081,Optimism,Hope,2.1
+P081,Overall Self-control,Self-control,2.583333333
+P081,Overall Hope,Hope,2
+P082,Impulsivity,Self-control,3.5
+P082,Simple Tasks,Self-control,2.333333333
+P082,Risk Seeking,Self-control,2.25
+P082,Physically Active,Self-control,2.333333333
+P082,Self-centered,Self-control,3
+P082,Temperament,Self-control,2.25
+P082,Future,Hope,1.7
+P082,Interconnectedness,Hope,1.8
+P082,Optimism,Hope,1.4
+P082,Overall Self-control,Self-control,2.416666667
+P082,Overall Hope,Hope,1.633333333
+P083,Impulsivity,Self-control,4
+P083,Simple Tasks,Self-control,2
+P083,Risk Seeking,Self-control,4
+P083,Physically Active,Self-control,2.333333333
+P083,Self-centered,Self-control,4
+P083,Temperament,Self-control,3.25
+P083,Future,Hope,3
+P083,Interconnectedness,Hope,3
+P083,Optimism,Hope,3
+P083,Overall Self-control,Self-control,3.083333333
+P083,Overall Hope,Hope,3
+P084,Impulsivity,Self-control,3.75
+P084,Simple Tasks,Self-control,3.333333333
+P084,Risk Seeking,Self-control,3.25
+P084,Physically Active,Self-control,2.333333333
+P084,Self-centered,Self-control,3.5
+P084,Temperament,Self-control,4
+P084,Future,Hope,2.8
+P084,Interconnectedness,Hope,2.9
+P084,Optimism,Hope,3
+P084,Overall Self-control,Self-control,3.125
+P084,Overall Hope,Hope,2.9
+P085,Impulsivity,Self-control,3.5
+P085,Simple Tasks,Self-control,3.333333333
+P085,Risk Seeking,Self-control,2.5
+P085,Physically Active,Self-control,1.666666667
+P085,Self-centered,Self-control,3.5
+P085,Temperament,Self-control,2.75
+P085,Future,Hope,2.7
+P085,Interconnectedness,Hope,2.5
+P085,Optimism,Hope,2.4
+P085,Overall Self-control,Self-control,2.666666667
+P085,Overall Hope,Hope,2.533333333
+P086,Impulsivity,Self-control,2.5
+P086,Simple Tasks,Self-control,2
+P086,Risk Seeking,Self-control,3
+P086,Physically Active,Self-control,2.333333333
+P086,Self-centered,Self-control,2.25
+P086,Temperament,Self-control,2.5
+P086,Future,Hope,2.7
+P086,Interconnectedness,Hope,2.3
+P086,Optimism,Hope,2.1
+P086,Overall Self-control,Self-control,2.25
+P086,Overall Hope,Hope,2.366666667
+P087,Impulsivity,Self-control,2.5
+P087,Simple Tasks,Self-control,2.666666667
+P087,Risk Seeking,Self-control,2.25
+P087,Physically Active,Self-control,2
+P087,Self-centered,Self-control,2.75
+P087,Temperament,Self-control,3.25
+P087,Future,Hope,1.7
+P087,Interconnectedness,Hope,2.1
+P087,Optimism,Hope,2.1
+P087,Overall Self-control,Self-control,2.375
+P087,Overall Hope,Hope,1.966666667
+P088,Impulsivity,Self-control,2.5
+P088,Simple Tasks,Self-control,2
+P088,Risk Seeking,Self-control,3.25
+P088,Physically Active,Self-control,2.666666667
+P088,Self-centered,Self-control,2.5
+P088,Temperament,Self-control,2.75
+P088,Future,Hope,1.9
+P088,Interconnectedness,Hope,0.5
+P088,Optimism,Hope,1.5
+P088,Overall Self-control,Self-control,2.416666667
+P088,Overall Hope,Hope,1.3
+P089,Impulsivity,Self-control,2.25
+P089,Simple Tasks,Self-control,2.333333333
+P089,Risk Seeking,Self-control,2.5
+P089,Physically Active,Self-control,2
+P089,Self-centered,Self-control,2.75
+P089,Temperament,Self-control,2.5
+P089,Future,Hope,2
+P089,Interconnectedness,Hope,1.2
+P089,Optimism,Hope,2.1
+P089,Overall Self-control,Self-control,2.208333333
+P089,Overall Hope,Hope,1.766666667
+P090,Impulsivity,Self-control,2.75
+P090,Simple Tasks,Self-control,1.666666667
+P090,Risk Seeking,Self-control,2.25
+P090,Physically Active,Self-control,3.333333333
+P090,Self-centered,Self-control,2.75
+P090,Temperament,Self-control,2.25
+P090,Future,Hope,2.6
+P090,Interconnectedness,Hope,2
+P090,Optimism,Hope,2.3
+P090,Overall Self-control,Self-control,2.291666667
+P090,Overall Hope,Hope,2.3
+P091,Impulsivity,Self-control,2.5
+P091,Simple Tasks,Self-control,2.333333333
+P091,Risk Seeking,Self-control,2.5
+P091,Physically Active,Self-control,2
+P091,Self-centered,Self-control,2.5
+P091,Temperament,Self-control,2.25
+P091,Future,Hope,1.8
+P091,Interconnectedness,Hope,1.9
+P091,Optimism,Hope,2
+P091,Overall Self-control,Self-control,2.166666667
+P091,Overall Hope,Hope,1.9
+P092,Impulsivity,Self-control,2.5
+P092,Simple Tasks,Self-control,2.333333333
+P092,Risk Seeking,Self-control,2.25
+P092,Physically Active,Self-control,2
+P092,Self-centered,Self-control,2.75
+P092,Temperament,Self-control,3
+P092,Future,Hope,2.3
+P092,Interconnectedness,Hope,2.1
+P092,Optimism,Hope,2.2
+P092,Overall Self-control,Self-control,2.291666667
+P092,Overall Hope,Hope,2.2
+P093,Impulsivity,Self-control,2.5
+P093,Simple Tasks,Self-control,1.666666667
+P093,Risk Seeking,Self-control,2.75
+P093,Physically Active,Self-control,2
+P093,Self-centered,Self-control,2.75
+P093,Temperament,Self-control,2.25
+P093,Future,Hope,2
+P093,Interconnectedness,Hope,1.7
+P093,Optimism,Hope,1.9
+P093,Overall Self-control,Self-control,2.166666667
+P093,Overall Hope,Hope,1.866666667
+P094,Impulsivity,Self-control,2.5
+P094,Simple Tasks,Self-control,2
+P094,Risk Seeking,Self-control,2.25
+P094,Physically Active,Self-control,2.333333333
+P094,Self-centered,Self-control,3
+P094,Temperament,Self-control,2
+P094,Future,Hope,2.6
+P094,Interconnectedness,Hope,2.1
+P094,Optimism,Hope,2.4
+P094,Overall Self-control,Self-control,2.166666667
+P094,Overall Hope,Hope,2.366666667
+P095,Impulsivity,Self-control,3.25
+P095,Simple Tasks,Self-control,2.333333333
+P095,Risk Seeking,Self-control,2.5
+P095,Physically Active,Self-control,1.666666667
+P095,Self-centered,Self-control,2.75
+P095,Temperament,Self-control,4
+P095,Future,Hope,2.7
+P095,Interconnectedness,Hope,2.8
+P095,Optimism,Hope,2.6
+P095,Overall Self-control,Self-control,2.583333333
+P095,Overall Hope,Hope,2.7
+P097,Impulsivity,Self-control,2.5
+P097,Simple Tasks,Self-control,2
+P097,Risk Seeking,Self-control,2.5
+P097,Physically Active,Self-control,2.333333333
+P097,Self-centered,Self-control,3
+P097,Temperament,Self-control,3
+P097,Future,Hope,2
+P097,Interconnectedness,Hope,2.1
+P097,Optimism,Hope,2
+P097,Overall Self-control,Self-control,2.375
+P097,Overall Hope,Hope,2.033333333
+P098,Impulsivity,Self-control,3
+P098,Simple Tasks,Self-control,3.333333333
+P098,Risk Seeking,Self-control,3.25
+P098,Physically Active,Self-control,2.333333333
+P098,Self-centered,Self-control,3.5
+P098,Temperament,Self-control,4
+P098,Future,Hope,2.6
+P098,Interconnectedness,Hope,2.3
+P098,Optimism,Hope,2.8
+P098,Overall Self-control,Self-control,3
+P098,Overall Hope,Hope,2.566666667
+P099,Impulsivity,Self-control,2.5
+P099,Simple Tasks,Self-control,2.333333333
+P099,Risk Seeking,Self-control,2.5
+P099,Physically Active,Self-control,2.333333333
+P099,Self-centered,Self-control,2.5
+P099,Temperament,Self-control,2.75
+P099,Future,Hope,2.4
+P099,Interconnectedness,Hope,2.3
+P099,Optimism,Hope,2.8
+P099,Overall Self-control,Self-control,2.291666667
+P099,Overall Hope,Hope,2.5
+P100,Impulsivity,Self-control,2.5
+P100,Simple Tasks,Self-control,2.333333333
+P100,Risk Seeking,Self-control,2.25
+P100,Physically Active,Self-control,2.333333333
+P100,Self-centered,Self-control,2.25
+P100,Temperament,Self-control,2.75
+P100,Future,Hope,2
+P100,Interconnectedness,Hope,1.6
+P100,Optimism,Hope,1.6
+P100,Overall Self-control,Self-control,2.208333333
+P100,Overall Hope,Hope,1.733333333
+P101,Impulsivity,Self-control,2.25
+P101,Simple Tasks,Self-control,2.333333333
+P101,Risk Seeking,Self-control,2.75
+P101,Physically Active,Self-control,1.666666667
+P101,Self-centered,Self-control,2
+P101,Temperament,Self-control,3
+P101,Future,Hope,2.2
+P101,Interconnectedness,Hope,2.4
+P101,Optimism,Hope,2
+P101,Overall Self-control,Self-control,2.166666667
+P101,Overall Hope,Hope,2.2
+P102,Impulsivity,Self-control,2.75
+P102,Simple Tasks,Self-control,2.333333333
+P102,Risk Seeking,Self-control,2.75
+P102,Physically Active,Self-control,2.333333333
+P102,Self-centered,Self-control,3.5
+P102,Temperament,Self-control,2.5
+P102,Future,Hope,2.3
+P102,Interconnectedness,Hope,2.5
+P102,Optimism,Hope,2.4
+P102,Overall Self-control,Self-control,2.5
+P102,Overall Hope,Hope,2.4
+P103,Impulsivity,Self-control,2.25
+P103,Simple Tasks,Self-control,2.333333333
+P103,Risk Seeking,Self-control,2.5
+P103,Physically Active,Self-control,2
+P103,Self-centered,Self-control,3
+P103,Temperament,Self-control,2.75
+P103,Future,Hope,2.1
+P103,Interconnectedness,Hope,1.2
+P103,Optimism,Hope,2.1
+P103,Overall Self-control,Self-control,2.291666667
+P103,Overall Hope,Hope,1.8
+P104,Impulsivity,Self-control,2.75
+P104,Simple Tasks,Self-control,2.333333333
+P104,Risk Seeking,Self-control,2.75
+P104,Physically Active,Self-control,2.333333333
+P104,Self-centered,Self-control,3
+P104,Temperament,Self-control,2.75
+P104,Future,Hope,2
+P104,Interconnectedness,Hope,2.3
+P104,Optimism,Hope,1.9
+P104,Overall Self-control,Self-control,2.458333333
+P104,Overall Hope,Hope,2.066666667
+P105,Impulsivity,Self-control,2.75
+P105,Simple Tasks,Self-control,2.666666667
+P105,Risk Seeking,Self-control,3
+P105,Physically Active,Self-control,2
+P105,Self-centered,Self-control,3
+P105,Temperament,Self-control,2.75
+P105,Future,Hope,2.5
+P105,Interconnectedness,Hope,1.8
+P105,Optimism,Hope,2.2
+P105,Overall Self-control,Self-control,2.5
+P105,Overall Hope,Hope,2.166666667
+SR001,Impulsivity,Self-control,2
+SR001,Simple Tasks,Self-control,2
+SR001,Risk Seeking,Self-control,2.25
+SR001,Physically Active,Self-control,2.666666667
+SR001,Self-centered,Self-control,2.25
+SR001,Temperament,Self-control,3.25
+SR001,Future,Hope,2.3
+SR001,Interconnectedness,Hope,2.1
+SR001,Optimism,Hope,2.1
+SR001,Overall Self-control,Self-control,2.208333333
+SR001,Overall Hope,Hope,2.166666667
+SR002,Impulsivity,Self-control,2.5
+SR002,Simple Tasks,Self-control,2.333333333
+SR002,Risk Seeking,Self-control,2.5
+SR002,Physically Active,Self-control,2.333333333
+SR002,Self-centered,Self-control,2.5
+SR002,Temperament,Self-control,2.25
+SR002,Future,Hope,2.1
+SR002,Interconnectedness,Hope,1.5
+SR002,Optimism,Hope,1.8
+SR002,Overall Self-control,Self-control,2.208333333
+SR002,Overall Hope,Hope,1.8
+SR003,Impulsivity,Self-control,2.75
+SR003,Simple Tasks,Self-control,2
+SR003,Risk Seeking,Self-control,3
+SR003,Physically Active,Self-control,1.333333333
+SR003,Self-centered,Self-control,3.5
+SR003,Temperament,Self-control,3
+SR003,Future,Hope,2.3
+SR003,Interconnectedness,Hope,2
+SR003,Optimism,Hope,2.3
+SR003,Overall Self-control,Self-control,2.458333333
+SR003,Overall Hope,Hope,2.2
+SR004,Impulsivity,Self-control,3
+SR004,Simple Tasks,Self-control,2.333333333
+SR004,Risk Seeking,Self-control,2.5
+SR004,Physically Active,Self-control,2.666666667
+SR004,Self-centered,Self-control,3.25
+SR004,Temperament,Self-control,2.75
+SR004,Future,Hope,2.3
+SR004,Interconnectedness,Hope,2.2
+SR004,Optimism,Hope,2.1
+SR004,Overall Self-control,Self-control,2.541666667
+SR004,Overall Hope,Hope,2.2
+SR005,Impulsivity,Self-control,3
+SR005,Simple Tasks,Self-control,2.666666667
+SR005,Risk Seeking,Self-control,2
+SR005,Physically Active,Self-control,2
+SR005,Self-centered,Self-control,3
+SR005,Temperament,Self-control,3.5
+SR005,Future,Hope,2.3
+SR005,Interconnectedness,Hope,2.4
+SR005,Optimism,Hope,2.3
+SR005,Overall Self-control,Self-control,2.5
+SR005,Overall Hope,Hope,2.333333333
+SR006,Impulsivity,Self-control,2.75
+SR006,Simple Tasks,Self-control,2
+SR006,Risk Seeking,Self-control,2.75
+SR006,Physically Active,Self-control,2
+SR006,Self-centered,Self-control,3.25
+SR006,Temperament,Self-control,2.25
+SR006,Future,Hope,2.5
+SR006,Interconnectedness,Hope,2.3
+SR006,Optimism,Hope,2.3
+SR006,Overall Self-control,Self-control,2.333333333
+SR006,Overall Hope,Hope,2.366666667
+SR007,Impulsivity,Self-control,4
+SR007,Simple Tasks,Self-control,3
+SR007,Risk Seeking,Self-control,2.25
+SR007,Physically Active,Self-control,1
+SR007,Self-centered,Self-control,4
+SR007,Temperament,Self-control,3
+SR007,Future,Hope,2.1
+SR007,Interconnectedness,Hope,3
+SR007,Optimism,Hope,2.8
+SR007,Overall Self-control,Self-control,2.708333333
+SR007,Overall Hope,Hope,2.633333333
+SR008,Impulsivity,Self-control,2
+SR008,Simple Tasks,Self-control,2.333333333
+SR008,Risk Seeking,Self-control,3
+SR008,Physically Active,Self-control,2
+SR008,Self-centered,Self-control,2.25
+SR008,Temperament,Self-control,1.5
+SR008,Future,Hope,1.3
+SR008,Interconnectedness,Hope,0.8
+SR008,Optimism,Hope,1
+SR008,Overall Self-control,Self-control,2
+SR008,Overall Hope,Hope,1.033333333
+SR009,Impulsivity,Self-control,2.5
+SR009,Simple Tasks,Self-control,2.333333333
+SR009,Risk Seeking,Self-control,2.75
+SR009,Physically Active,Self-control,1.666666667
+SR009,Self-centered,Self-control,3.5
+SR009,Temperament,Self-control,4
+SR009,Future,Hope,2.7
+SR009,Interconnectedness,Hope,2.4
+SR009,Optimism,Hope,2.7
+SR009,Overall Self-control,Self-control,2.625
+SR009,Overall Hope,Hope,2.6
+SR010,Impulsivity,Self-control,2.5
+SR010,Simple Tasks,Self-control,2.666666667
+SR010,Risk Seeking,Self-control,3
+SR010,Physically Active,Self-control,2.333333333
+SR010,Self-centered,Self-control,3
+SR010,Temperament,Self-control,3
+SR010,Future,Hope,2.2
+SR010,Interconnectedness,Hope,1.8
+SR010,Optimism,Hope,2
+SR010,Overall Self-control,Self-control,2.541666667
+SR010,Overall Hope,Hope,2
+SR011,Impulsivity,Self-control,2.25
+SR011,Simple Tasks,Self-control,2
+SR011,Risk Seeking,Self-control,2.5
+SR011,Physically Active,Self-control,2
+SR011,Self-centered,Self-control,3
+SR011,Temperament,Self-control,2.5
+SR011,Future,Hope,1.5
+SR011,Interconnectedness,Hope,1.8
+SR011,Optimism,Hope,1.2
+SR011,Overall Self-control,Self-control,2.208333333
+SR011,Overall Hope,Hope,1.5
+SR012,Impulsivity,Self-control,2
+SR012,Simple Tasks,Self-control,2.333333333
+SR012,Risk Seeking,Self-control,3
+SR012,Physically Active,Self-control,2.333333333
+SR012,Self-centered,Self-control,2.25
+SR012,Temperament,Self-control,2.5
+SR012,Future,Hope,2.5
+SR012,Interconnectedness,Hope,1.5
+SR012,Optimism,Hope,2.4
+SR012,Overall Self-control,Self-control,2.208333333
+SR012,Overall Hope,Hope,2.133333333
+SR013,Impulsivity,Self-control,3
+SR013,Simple Tasks,Self-control,3
+SR013,Risk Seeking,Self-control,2.25
+SR013,Physically Active,Self-control,2.333333333
+SR013,Self-centered,Self-control,2.5
+SR013,Temperament,Self-control,2.25
+SR013,Future,Hope,1.7
+SR013,Interconnectedness,Hope,1.2
+SR013,Optimism,Hope,1.6
+SR013,Overall Self-control,Self-control,2.333333333
+SR013,Overall Hope,Hope,1.5
+SR014,Impulsivity,Self-control,2.75
+SR014,Simple Tasks,Self-control,2.333333333
+SR014,Risk Seeking,Self-control,2.5
+SR014,Physically Active,Self-control,2
+SR014,Self-centered,Self-control,3.5
+SR014,Temperament,Self-control,2.5
+SR014,Future,Hope,1.4
+SR014,Interconnectedness,Hope,1.9
+SR014,Optimism,Hope,1.9
+SR014,Overall Self-control,Self-control,2.416666667
+SR014,Overall Hope,Hope,1.733333333
+SR015,Impulsivity,Self-control,3
+SR015,Simple Tasks,Self-control,2.333333333
+SR015,Risk Seeking,Self-control,3.5
+SR015,Physically Active,Self-control,2
+SR015,Self-centered,Self-control,3.75
+SR015,Temperament,Self-control,3
+SR015,Future,Hope,2.1
+SR015,Interconnectedness,Hope,1.7
+SR015,Optimism,Hope,2
+SR015,Overall Self-control,Self-control,2.75
+SR015,Overall Hope,Hope,1.933333333
+SR016,Impulsivity,Self-control,3.25
+SR016,Simple Tasks,Self-control,2.333333333
+SR016,Risk Seeking,Self-control,2
+SR016,Physically Active,Self-control,2
+SR016,Self-centered,Self-control,3.5
+SR016,Temperament,Self-control,2.5
+SR016,Future,Hope,2.3
+SR016,Interconnectedness,Hope,2.5
+SR016,Optimism,Hope,2.4
+SR016,Overall Self-control,Self-control,2.416666667
+SR016,Overall Hope,Hope,2.4
+SR017,Impulsivity,Self-control,3.25
+SR017,Simple Tasks,Self-control,2.333333333
+SR017,Risk Seeking,Self-control,3.25
+SR017,Physically Active,Self-control,2
+SR017,Self-centered,Self-control,3.5
+SR017,Temperament,Self-control,2.75
+SR017,Future,Hope,2.6
+SR017,Interconnectedness,Hope,2.7
+SR017,Optimism,Hope,2.4
+SR017,Overall Self-control,Self-control,2.666666667
+SR017,Overall Hope,Hope,2.566666667
+SR018,Impulsivity,Self-control,4
+SR018,Simple Tasks,Self-control,2
+SR018,Risk Seeking,Self-control,2.5
+SR018,Physically Active,Self-control,2
+SR018,Self-centered,Self-control,3.25
+SR018,Temperament,Self-control,3.25
+SR018,Future,Hope,2.1
+SR018,Interconnectedness,Hope,2.7
+SR018,Optimism,Hope,2.7
+SR018,Overall Self-control,Self-control,2.666666667
+SR018,Overall Hope,Hope,2.5
+SR019,Impulsivity,Self-control,4
+SR019,Simple Tasks,Self-control,2
+SR019,Risk Seeking,Self-control,2.25
+SR019,Physically Active,Self-control,2.333333333
+SR019,Self-centered,Self-control,2.25
+SR019,Temperament,Self-control,2.75
+SR019,Future,Hope,2.1
+SR019,Interconnectedness,Hope,2.8
+SR019,Optimism,Hope,2.5
+SR019,Overall Self-control,Self-control,2.416666667
+SR019,Overall Hope,Hope,2.466666667
+SR020,Impulsivity,Self-control,3.5
+SR020,Simple Tasks,Self-control,2
+SR020,Risk Seeking,Self-control,2
+SR020,Physically Active,Self-control,2
+SR020,Self-centered,Self-control,2.25
+SR020,Temperament,Self-control,2.5
+SR020,Future,Hope,2.4
+SR020,Interconnectedness,Hope,2.7
+SR020,Optimism,Hope,2
+SR020,Overall Self-control,Self-control,2.208333333
+SR020,Overall Hope,Hope,2.366666667
+SR021,Impulsivity,Self-control,3
+SR021,Simple Tasks,Self-control,2.333333333
+SR021,Risk Seeking,Self-control,2.5
+SR021,Physically Active,Self-control,2.333333333
+SR021,Self-centered,Self-control,2.5
+SR021,Temperament,Self-control,2.5
+SR021,Future,Hope,2.6
+SR021,Interconnectedness,Hope,1.7
+SR021,Optimism,Hope,2.4
+SR021,Overall Self-control,Self-control,2.333333333
+SR021,Overall Hope,Hope,2.233333333
+SR022,Impulsivity,Self-control,3.25
+SR022,Simple Tasks,Self-control,2.666666667
+SR022,Risk Seeking,Self-control,2.5
+SR022,Physically Active,Self-control,2.666666667
+SR022,Self-centered,Self-control,3.5
+SR022,Temperament,Self-control,3.25
+SR022,Future,Hope,1.9
+SR022,Interconnectedness,Hope,1.3
+SR022,Optimism,Hope,2.1
+SR022,Overall Self-control,Self-control,2.75
+SR022,Overall Hope,Hope,1.766666667
+SR023,Impulsivity,Self-control,2.75
+SR023,Simple Tasks,Self-control,3
+SR023,Risk Seeking,Self-control,3
+SR023,Physically Active,Self-control,2.333333333
+SR023,Self-centered,Self-control,4
+SR023,Temperament,Self-control,2.5
+SR023,Future,Hope,3
+SR023,Interconnectedness,Hope,2.7
+SR023,Optimism,Hope,2.7
+SR023,Overall Self-control,Self-control,2.708333333
+SR023,Overall Hope,Hope,2.8
+SR024,Impulsivity,Self-control,2.5
+SR024,Simple Tasks,Self-control,4
+SR024,Risk Seeking,Self-control,2.5
+SR024,Physically Active,Self-control,1
+SR024,Self-centered,Self-control,4
+SR024,Temperament,Self-control,4
+SR024,Future,Hope,3
+SR024,Interconnectedness,Hope,3
+SR024,Optimism,Hope,3
+SR024,Overall Self-control,Self-control,2.791666667
+SR024,Overall Hope,Hope,3
+SR025,Impulsivity,Self-control,3
+SR025,Simple Tasks,Self-control,1.666666667
+SR025,Risk Seeking,Self-control,3.25
+SR025,Physically Active,Self-control,2
+SR025,Self-centered,Self-control,2.75
+SR025,Temperament,Self-control,2.5
+SR025,Future,Hope,2
+SR025,Interconnectedness,Hope,2
+SR025,Optimism,Hope,1.8
+SR025,Overall Self-control,Self-control,2.375
+SR025,Overall Hope,Hope,1.933333333
+SR026,Impulsivity,Self-control,2.75
+SR026,Simple Tasks,Self-control,2
+SR026,Risk Seeking,Self-control,2.75
+SR026,Physically Active,Self-control,1.666666667
+SR026,Self-centered,Self-control,3.25
+SR026,Temperament,Self-control,3.25
+SR026,Future,Hope,2
+SR026,Interconnectedness,Hope,1.3
+SR026,Optimism,Hope,2.1
+SR026,Overall Self-control,Self-control,2.458333333
+SR026,Overall Hope,Hope,1.8
+SR027,Impulsivity,Self-control,3.25
+SR027,Simple Tasks,Self-control,2
+SR027,Risk Seeking,Self-control,3.25
+SR027,Physically Active,Self-control,1.666666667
+SR027,Self-centered,Self-control,2.75
+SR027,Temperament,Self-control,1.75
+SR027,Future,Hope,2.5
+SR027,Interconnectedness,Hope,2.1
+SR027,Optimism,Hope,1.9
+SR027,Overall Self-control,Self-control,2.291666667
+SR027,Overall Hope,Hope,2.166666667
+SR028,Impulsivity,Self-control,2.25
+SR028,Simple Tasks,Self-control,2.333333333
+SR028,Risk Seeking,Self-control,2.75
+SR028,Physically Active,Self-control,1.666666667
+SR028,Self-centered,Self-control,2.5
+SR028,Temperament,Self-control,2.5
+SR028,Future,Hope,1.7
+SR028,Interconnectedness,Hope,1.9
+SR028,Optimism,Hope,2.1
+SR028,Overall Self-control,Self-control,2.166666667
+SR028,Overall Hope,Hope,1.9
+SR029,Impulsivity,Self-control,3
+SR029,Simple Tasks,Self-control,2.333333333
+SR029,Risk Seeking,Self-control,2.25
+SR029,Physically Active,Self-control,2.333333333
+SR029,Self-centered,Self-control,3.75
+SR029,Temperament,Self-control,1.75
+SR029,Future,Hope,2.4
+SR029,Interconnectedness,Hope,1.7
+SR029,Optimism,Hope,1.8
+SR029,Overall Self-control,Self-control,2.375
+SR029,Overall Hope,Hope,1.966666667
+SR030,Impulsivity,Self-control,2.5
+SR030,Simple Tasks,Self-control,2.666666667
+SR030,Risk Seeking,Self-control,2.5
+SR030,Physically Active,Self-control,2
+SR030,Self-centered,Self-control,3
+SR030,Temperament,Self-control,3.25
+SR030,Future,Hope,2.2
+SR030,Interconnectedness,Hope,2.3
+SR030,Optimism,Hope,2
+SR030,Overall Self-control,Self-control,2.458333333
+SR030,Overall Hope,Hope,2.166666667
+SR031,Impulsivity,Self-control,2.25
+SR031,Simple Tasks,Self-control,2.333333333
+SR031,Risk Seeking,Self-control,2.75
+SR031,Physically Active,Self-control,1.666666667
+SR031,Self-centered,Self-control,2.5
+SR031,Temperament,Self-control,2.5
+SR031,Future,Hope,1.7
+SR031,Interconnectedness,Hope,2.1
+SR031,Optimism,Hope,2.1
+SR031,Overall Self-control,Self-control,2.166666667
+SR031,Overall Hope,Hope,1.966666667
+SR032,Impulsivity,Self-control,3.5
+SR032,Simple Tasks,Self-control,3.333333333
+SR032,Risk Seeking,Self-control,2
+SR032,Physically Active,Self-control,2
+SR032,Self-centered,Self-control,3
+SR032,Temperament,Self-control,2.75
+SR032,Future,Hope,2.2
+SR032,Interconnectedness,Hope,2.6
+SR032,Optimism,Hope,2.8
+SR032,Overall Self-control,Self-control,2.541666667
+SR032,Overall Hope,Hope,2.533333333
+SR033,Impulsivity,Self-control,2.5
+SR033,Simple Tasks,Self-control,2.333333333
+SR033,Risk Seeking,Self-control,2.25
+SR033,Physically Active,Self-control,2
+SR033,Self-centered,Self-control,2.25
+SR033,Temperament,Self-control,3
+SR033,Future,Hope,2.2
+SR033,Interconnectedness,Hope,1.8
+SR033,Optimism,Hope,1.8
+SR033,Overall Self-control,Self-control,2.208333333
+SR033,Overall Hope,Hope,1.933333333
+SR034,Impulsivity,Self-control,3.25
+SR034,Simple Tasks,Self-control,2.333333333
+SR034,Risk Seeking,Self-control,2
+SR034,Physically Active,Self-control,2
+SR034,Self-centered,Self-control,3.5
+SR034,Temperament,Self-control,2.75
+SR034,Future,Hope,2.5
+SR034,Interconnectedness,Hope,2.4
+SR034,Optimism,Hope,2.3
+SR034,Overall Self-control,Self-control,2.458333333
+SR034,Overall Hope,Hope,2.4
+SR035,Impulsivity,Self-control,2.75
+SR035,Simple Tasks,Self-control,2.333333333
+SR035,Risk Seeking,Self-control,2.5
+SR035,Physically Active,Self-control,3
+SR035,Self-centered,Self-control,2.75
+SR035,Temperament,Self-control,1.75
+SR035,Future,Hope,1.9
+SR035,Interconnectedness,Hope,1.7
+SR035,Optimism,Hope,1.5
+SR035,Overall Self-control,Self-control,2.291666667
+SR035,Overall Hope,Hope,1.7
+SR036,Impulsivity,Self-control,2
+SR036,Simple Tasks,Self-control,2.333333333
+SR036,Risk Seeking,Self-control,2.5
+SR036,Physically Active,Self-control,1.666666667
+SR036,Self-centered,Self-control,3.25
+SR036,Temperament,Self-control,2.25
+SR036,Future,Hope,2.4
+SR036,Interconnectedness,Hope,1.8
+SR036,Optimism,Hope,2.2
+SR036,Overall Self-control,Self-control,2.166666667
+SR036,Overall Hope,Hope,2.133333333
+SR037,Impulsivity,Self-control,2.5
+SR037,Simple Tasks,Self-control,1.666666667
+SR037,Risk Seeking,Self-control,3
+SR037,Physically Active,Self-control,2.666666667
+SR037,Self-centered,Self-control,3
+SR037,Temperament,Self-control,2.25
+SR037,Future,Hope,1.6
+SR037,Interconnectedness,Hope,1.8
+SR037,Optimism,Hope,1.5
+SR037,Overall Self-control,Self-control,2.333333333
+SR037,Overall Hope,Hope,1.633333333
+SR038,Impulsivity,Self-control,2.25
+SR038,Simple Tasks,Self-control,1.666666667
+SR038,Risk Seeking,Self-control,2.5
+SR038,Physically Active,Self-control,2.666666667
+SR038,Self-centered,Self-control,2.75
+SR038,Temperament,Self-control,2
+SR038,Future,Hope,2.5
+SR038,Interconnectedness,Hope,2.1
+SR038,Optimism,Hope,2.1
+SR038,Overall Self-control,Self-control,2.125
+SR038,Overall Hope,Hope,2.233333333
+SR039,Impulsivity,Self-control,3
+SR039,Simple Tasks,Self-control,3
+SR039,Risk Seeking,Self-control,2.5
+SR039,Physically Active,Self-control,2
+SR039,Self-centered,Self-control,3.5
+SR039,Temperament,Self-control,2.75
+SR039,Future,Hope,2.4
+SR039,Interconnectedness,Hope,1.8
+SR039,Optimism,Hope,2.1
+SR039,Overall Self-control,Self-control,2.583333333
+SR039,Overall Hope,Hope,2.1
+SR040,Impulsivity,Self-control,3
+SR040,Simple Tasks,Self-control,3
+SR040,Risk Seeking,Self-control,2.5
+SR040,Physically Active,Self-control,2
+SR040,Self-centered,Self-control,3.5
+SR040,Temperament,Self-control,2.75
+SR040,Future,Hope,2.3
+SR040,Interconnectedness,Hope,1.7
+SR040,Optimism,Hope,2.1
+SR040,Overall Self-control,Self-control,2.583333333
+SR040,Overall Hope,Hope,2.033333333
+SR041,Impulsivity,Self-control,2.5
+SR041,Simple Tasks,Self-control,2.666666667
+SR041,Risk Seeking,Self-control,2.5
+SR041,Physically Active,Self-control,2
+SR041,Self-centered,Self-control,3.5
+SR041,Temperament,Self-control,3.25
+SR041,Future,Hope,1.6
+SR041,Interconnectedness,Hope,1.9
+SR041,Optimism,Hope,2.5
+SR041,Overall Self-control,Self-control,2.541666667
+SR041,Overall Hope,Hope,2
+SR042,Impulsivity,Self-control,3
+SR042,Simple Tasks,Self-control,2.333333333
+SR042,Risk Seeking,Self-control,2.75
+SR042,Physically Active,Self-control,2.333333333
+SR042,Self-centered,Self-control,2.5
+SR042,Temperament,Self-control,3.25
+SR042,Future,Hope,2
+SR042,Interconnectedness,Hope,1.7
+SR042,Optimism,Hope,2.1
+SR042,Overall Self-control,Self-control,2.5
+SR042,Overall Hope,Hope,1.933333333
+SR043,Impulsivity,Self-control,2.5
+SR043,Simple Tasks,Self-control,2
+SR043,Risk Seeking,Self-control,2.25
+SR043,Physically Active,Self-control,2.666666667
+SR043,Self-centered,Self-control,2.75
+SR043,Temperament,Self-control,2.75
+SR043,Future,Hope,1.8
+SR043,Interconnectedness,Hope,1.9
+SR043,Optimism,Hope,2.1
+SR043,Overall Self-control,Self-control,2.291666667
+SR043,Overall Hope,Hope,1.933333333
+SR044,Impulsivity,Self-control,2.5
+SR044,Simple Tasks,Self-control,2
+SR044,Risk Seeking,Self-control,3
+SR044,Physically Active,Self-control,2
+SR044,Self-centered,Self-control,3
+SR044,Temperament,Self-control,2.5
+SR044,Future,Hope,2.1
+SR044,Interconnectedness,Hope,2.4
+SR044,Optimism,Hope,2.2
+SR044,Overall Self-control,Self-control,2.333333333
+SR044,Overall Hope,Hope,2.233333333
+SR045,Impulsivity,Self-control,2.5
+SR045,Simple Tasks,Self-control,1.666666667
+SR045,Risk Seeking,Self-control,1.75
+SR045,Physically Active,Self-control,2.333333333
+SR045,Self-centered,Self-control,3
+SR045,Temperament,Self-control,2
+SR045,Future,Hope,2
+SR045,Interconnectedness,Hope,2.2
+SR045,Optimism,Hope,1.6
+SR045,Overall Self-control,Self-control,2.041666667
+SR045,Overall Hope,Hope,1.933333333
+SR046,Impulsivity,Self-control,3
+SR046,Simple Tasks,Self-control,3
+SR046,Risk Seeking,Self-control,2.5
+SR046,Physically Active,Self-control,2
+SR046,Self-centered,Self-control,3.5
+SR046,Temperament,Self-control,2.75
+SR046,Future,Hope,2.3
+SR046,Interconnectedness,Hope,1.7
+SR046,Optimism,Hope,2.1
+SR046,Overall Self-control,Self-control,2.583333333
+SR046,Overall Hope,Hope,2.033333333
+SR047,Impulsivity,Self-control,3
+SR047,Simple Tasks,Self-control,3
+SR047,Risk Seeking,Self-control,2.25
+SR047,Physically Active,Self-control,2
+SR047,Self-centered,Self-control,3.25
+SR047,Temperament,Self-control,2.75
+SR047,Future,Hope,1.8
+SR047,Interconnectedness,Hope,1.4
+SR047,Optimism,Hope,1.6
+SR047,Overall Self-control,Self-control,2.5
+SR047,Overall Hope,Hope,1.6
+SR048,Impulsivity,Self-control,2.75
+SR048,Simple Tasks,Self-control,2
+SR048,Risk Seeking,Self-control,2.25
+SR048,Physically Active,Self-control,2.666666667
+SR048,Self-centered,Self-control,3.25
+SR048,Temperament,Self-control,2.75
+SR048,Future,Hope,1.5
+SR048,Interconnectedness,Hope,1.2
+SR048,Optimism,Hope,1.8
+SR048,Overall Self-control,Self-control,2.416666667
+SR048,Overall Hope,Hope,1.5
+SR049,Impulsivity,Self-control,2.5
+SR049,Simple Tasks,Self-control,2
+SR049,Risk Seeking,Self-control,2.5
+SR049,Physically Active,Self-control,2
+SR049,Self-centered,Self-control,3
+SR049,Temperament,Self-control,2.75
+SR049,Future,Hope,2.2
+SR049,Interconnectedness,Hope,2.2
+SR049,Optimism,Hope,2.2
+SR049,Overall Self-control,Self-control,2.291666667
+SR049,Overall Hope,Hope,2.2
+SR050,Impulsivity,Self-control,3
+SR050,Simple Tasks,Self-control,2
+SR050,Risk Seeking,Self-control,2.75
+SR050,Physically Active,Self-control,2.333333333
+SR050,Self-centered,Self-control,3
+SR050,Temperament,Self-control,2.75
+SR050,Future,Hope,2.1
+SR050,Interconnectedness,Hope,2.1
+SR050,Optimism,Hope,2
+SR050,Overall Self-control,Self-control,2.458333333
+SR050,Overall Hope,Hope,2.066666667
+SR051,Impulsivity,Self-control,2.5
+SR051,Simple Tasks,Self-control,2
+SR051,Risk Seeking,Self-control,2
+SR051,Physically Active,Self-control,2.333333333
+SR051,Self-centered,Self-control,2.75
+SR051,Temperament,Self-control,2.75
+SR051,Future,Hope,1.9
+SR051,Interconnectedness,Hope,1.8
+SR051,Optimism,Hope,2.4
+SR051,Overall Self-control,Self-control,2.208333333
+SR051,Overall Hope,Hope,2.033333333
+SR052,Impulsivity,Self-control,3.25
+SR052,Simple Tasks,Self-control,2.333333333
+SR052,Risk Seeking,Self-control,2.5
+SR052,Physically Active,Self-control,2
+SR052,Self-centered,Self-control,4
+SR052,Temperament,Self-control,3
+SR052,Future,Hope,2.2
+SR052,Interconnectedness,Hope,1.9
+SR052,Optimism,Hope,1.7
+SR052,Overall Self-control,Self-control,2.666666667
+SR052,Overall Hope,Hope,1.933333333
+SR053,Impulsivity,Self-control,3
+SR053,Simple Tasks,Self-control,2
+SR053,Risk Seeking,Self-control,2.75
+SR053,Physically Active,Self-control,2
+SR053,Self-centered,Self-control,3
+SR053,Temperament,Self-control,2.5
+SR053,Future,Hope,2.6
+SR053,Interconnectedness,Hope,2.6
+SR053,Optimism,Hope,2.4
+SR053,Overall Self-control,Self-control,2.375
+SR053,Overall Hope,Hope,2.533333333
+SR054,Impulsivity,Self-control,2.5
+SR054,Simple Tasks,Self-control,1.666666667
+SR054,Risk Seeking,Self-control,2.5
+SR054,Physically Active,Self-control,1.666666667
+SR054,Self-centered,Self-control,2.75
+SR054,Temperament,Self-control,2.25
+SR054,Future,Hope,1.4
+SR054,Interconnectedness,Hope,2.1
+SR054,Optimism,Hope,2.7
+SR054,Overall Self-control,Self-control,2.083333333
+SR054,Overall Hope,Hope,2.066666667
+SR055,Impulsivity,Self-control,2.75
+SR055,Simple Tasks,Self-control,2.333333333
+SR055,Risk Seeking,Self-control,2.5
+SR055,Physically Active,Self-control,2.333333333
+SR055,Self-centered,Self-control,2.5
+SR055,Temperament,Self-control,2.25
+SR055,Future,Hope,1.7
+SR055,Interconnectedness,Hope,1.6
+SR055,Optimism,Hope,1.8
+SR055,Overall Self-control,Self-control,2.25
+SR055,Overall Hope,Hope,1.7
+SR056,Impulsivity,Self-control,3.5
+SR056,Simple Tasks,Self-control,2.333333333
+SR056,Risk Seeking,Self-control,2.25
+SR056,Physically Active,Self-control,1.666666667
+SR056,Self-centered,Self-control,4
+SR056,Temperament,Self-control,4
+SR056,Future,Hope,2.4
+SR056,Interconnectedness,Hope,2.7
+SR056,Optimism,Hope,2.8
+SR056,Overall Self-control,Self-control,2.791666667
+SR056,Overall Hope,Hope,2.633333333
+SR057,Impulsivity,Self-control,2.75
+SR057,Simple Tasks,Self-control,2.666666667
+SR057,Risk Seeking,Self-control,2.25
+SR057,Physically Active,Self-control,2.333333333
+SR057,Self-centered,Self-control,3
+SR057,Temperament,Self-control,3
+SR057,Future,Hope,1.5
+SR057,Interconnectedness,Hope,2.2
+SR057,Optimism,Hope,2
+SR057,Overall Self-control,Self-control,2.458333333
+SR057,Overall Hope,Hope,1.9
+SR058,Impulsivity,Self-control,3
+SR058,Simple Tasks,Self-control,2.333333333
+SR058,Risk Seeking,Self-control,3
+SR058,Physically Active,Self-control,2
+SR058,Self-centered,Self-control,3.75
+SR058,Temperament,Self-control,2
+SR058,Future,Hope,2.7
+SR058,Interconnectedness,Hope,2
+SR058,Optimism,Hope,2.5
+SR058,Overall Self-control,Self-control,2.5
+SR058,Overall Hope,Hope,2.4
+SR059,Impulsivity,Self-control,2.75
+SR059,Simple Tasks,Self-control,2
+SR059,Risk Seeking,Self-control,2.75
+SR059,Physically Active,Self-control,2
+SR059,Self-centered,Self-control,3.75
+SR059,Temperament,Self-control,2.75
+SR059,Future,Hope,2.5
+SR059,Interconnectedness,Hope,2.2
+SR059,Optimism,Hope,2.3
+SR059,Overall Self-control,Self-control,2.5
+SR059,Overall Hope,Hope,2.333333333
+SR060,Impulsivity,Self-control,2.75
+SR060,Simple Tasks,Self-control,1.666666667
+SR060,Risk Seeking,Self-control,2.25
+SR060,Physically Active,Self-control,1.666666667
+SR060,Self-centered,Self-control,3.25
+SR060,Temperament,Self-control,2.5
+SR060,Future,Hope,2.6
+SR060,Interconnectedness,Hope,2.3
+SR060,Optimism,Hope,2.4
+SR060,Overall Self-control,Self-control,2.208333333
+SR060,Overall Hope,Hope,2.433333333
+SR061,Impulsivity,Self-control,2.75
+SR061,Simple Tasks,Self-control,2.666666667
+SR061,Risk Seeking,Self-control,3.5
+SR061,Physically Active,Self-control,1.333333333
+SR061,Self-centered,Self-control,4
+SR061,Temperament,Self-control,4
+SR061,Future,Hope,2.3
+SR061,Interconnectedness,Hope,2.5
+SR061,Optimism,Hope,2.6
+SR061,Overall Self-control,Self-control,2.875
+SR061,Overall Hope,Hope,2.466666667
+SR062,Impulsivity,Self-control,2.75
+SR062,Simple Tasks,Self-control,2
+SR062,Risk Seeking,Self-control,2.75
+SR062,Physically Active,Self-control,2.666666667
+SR062,Self-centered,Self-control,3.25
+SR062,Temperament,Self-control,2.5
+SR062,Future,Hope,2.1
+SR062,Interconnectedness,Hope,2
+SR062,Optimism,Hope,1.8
+SR062,Overall Self-control,Self-control,2.458333333
+SR062,Overall Hope,Hope,1.966666667
+SR063,Impulsivity,Self-control,2.75
+SR063,Simple Tasks,Self-control,3
+SR063,Risk Seeking,Self-control,2.25
+SR063,Physically Active,Self-control,2.333333333
+SR063,Self-centered,Self-control,2.5
+SR063,Temperament,Self-control,2.75
+SR063,Future,Hope,2.5
+SR063,Interconnectedness,Hope,1.8
+SR063,Optimism,Hope,2.3
+SR063,Overall Self-control,Self-control,2.375
+SR063,Overall Hope,Hope,2.2
+SR064,Impulsivity,Self-control,2.5
+SR064,Simple Tasks,Self-control,2.333333333
+SR064,Risk Seeking,Self-control,3.25
+SR064,Physically Active,Self-control,2.666666667
+SR064,Self-centered,Self-control,3.25
+SR064,Temperament,Self-control,2.75
+SR064,Future,Hope,1.9
+SR064,Interconnectedness,Hope,2.3
+SR064,Optimism,Hope,2.6
+SR064,Overall Self-control,Self-control,2.583333333
+SR064,Overall Hope,Hope,2.266666667
+SR065,Impulsivity,Self-control,2.75
+SR065,Simple Tasks,Self-control,2.666666667
+SR065,Risk Seeking,Self-control,3.25
+SR065,Physically Active,Self-control,2
+SR065,Self-centered,Self-control,4
+SR065,Temperament,Self-control,4
+SR065,Future,Hope,2.3
+SR065,Interconnectedness,Hope,2.5
+SR065,Optimism,Hope,2.6
+SR065,Overall Self-control,Self-control,2.916666667
+SR065,Overall Hope,Hope,2.466666667
+SR066,Impulsivity,Self-control,2.5
+SR066,Simple Tasks,Self-control,2.666666667
+SR066,Risk Seeking,Self-control,3
+SR066,Physically Active,Self-control,1.666666667
+SR066,Self-centered,Self-control,3.25
+SR066,Temperament,Self-control,3.75
+SR066,Future,Hope,2.3
+SR066,Interconnectedness,Hope,2.5
+SR066,Optimism,Hope,2.6
+SR066,Overall Self-control,Self-control,2.625
+SR066,Overall Hope,Hope,2.466666667
+SR067,Impulsivity,Self-control,2.5
+SR067,Simple Tasks,Self-control,2.333333333
+SR067,Risk Seeking,Self-control,2.25
+SR067,Physically Active,Self-control,2.333333333
+SR067,Self-centered,Self-control,2.5
+SR067,Temperament,Self-control,2.25
+SR067,Future,Hope,1
+SR067,Interconnectedness,Hope,1.2
+SR067,Optimism,Hope,1.6
+SR067,Overall Self-control,Self-control,2.166666667
+SR067,Overall Hope,Hope,1.266666667
+SR068,Impulsivity,Self-control,3.5
+SR068,Simple Tasks,Self-control,2.333333333
+SR068,Risk Seeking,Self-control,2.25
+SR068,Physically Active,Self-control,1.666666667
+SR068,Self-centered,Self-control,3
+SR068,Temperament,Self-control,1.75
+SR068,Future,Hope,2.4
+SR068,Interconnectedness,Hope,2.1
+SR068,Optimism,Hope,2.2
+SR068,Overall Self-control,Self-control,2.25
+SR068,Overall Hope,Hope,2.233333333
+SR069,Impulsivity,Self-control,2.75
+SR069,Simple Tasks,Self-control,2.333333333
+SR069,Risk Seeking,Self-control,3.25
+SR069,Physically Active,Self-control,1.333333333
+SR069,Self-centered,Self-control,3.25
+SR069,Temperament,Self-control,2.25
+SR069,Future,Hope,1.5
+SR069,Interconnectedness,Hope,1.6
+SR069,Optimism,Hope,2
+SR069,Overall Self-control,Self-control,2.375
+SR069,Overall Hope,Hope,1.7
+SR070,Impulsivity,Self-control,2.75
+SR070,Simple Tasks,Self-control,1.666666667
+SR070,Risk Seeking,Self-control,2
+SR070,Physically Active,Self-control,2.666666667
+SR070,Self-centered,Self-control,3
+SR070,Temperament,Self-control,2.5
+SR070,Future,Hope,2.6
+SR070,Interconnectedness,Hope,2.5
+SR070,Optimism,Hope,2.5
+SR070,Overall Self-control,Self-control,2.25
+SR070,Overall Hope,Hope,2.533333333
+SR071,Impulsivity,Self-control,2.5
+SR071,Simple Tasks,Self-control,1.666666667
+SR071,Risk Seeking,Self-control,2.25
+SR071,Physically Active,Self-control,2
+SR071,Self-centered,Self-control,3.5
+SR071,Temperament,Self-control,1.75
+SR071,Future,Hope,2.4
+SR071,Interconnectedness,Hope,2.1
+SR071,Optimism,Hope,2
+SR071,Overall Self-control,Self-control,2.125
+SR071,Overall Hope,Hope,2.166666667
+SR072,Impulsivity,Self-control,2.75
+SR072,Simple Tasks,Self-control,2.333333333
+SR072,Risk Seeking,Self-control,1.5
+SR072,Physically Active,Self-control,1.333333333
+SR072,Self-centered,Self-control,3.5
+SR072,Temperament,Self-control,3.25
+SR072,Future,Hope,2.7
+SR072,Interconnectedness,Hope,2.4
+SR072,Optimism,Hope,2.8
+SR072,Overall Self-control,Self-control,2.291666667
+SR072,Overall Hope,Hope,2.633333333
+SR073,Impulsivity,Self-control,2.75
+SR073,Simple Tasks,Self-control,2.666666667
+SR073,Risk Seeking,Self-control,2.25
+SR073,Physically Active,Self-control,2.333333333
+SR073,Self-centered,Self-control,2.25
+SR073,Temperament,Self-control,2.5
+SR073,Future,Hope,2.7
+SR073,Interconnectedness,Hope,2.8
+SR073,Optimism,Hope,2.6
+SR073,Overall Self-control,Self-control,2.25
+SR073,Overall Hope,Hope,2.7
+SR074,Impulsivity,Self-control,3
+SR074,Simple Tasks,Self-control,2.666666667
+SR074,Risk Seeking,Self-control,2.75
+SR074,Physically Active,Self-control,2.333333333
+SR074,Self-centered,Self-control,3
+SR074,Temperament,Self-control,3
+SR074,Future,Hope,2.3
+SR074,Interconnectedness,Hope,2.3
+SR074,Optimism,Hope,2.1
+SR074,Overall Self-control,Self-control,2.583333333
+SR074,Overall Hope,Hope,2.233333333
+SR075,Impulsivity,Self-control,3.25
+SR075,Simple Tasks,Self-control,2.666666667
+SR075,Risk Seeking,Self-control,2
+SR075,Physically Active,Self-control,1.333333333
+SR075,Self-centered,Self-control,3
+SR075,Temperament,Self-control,3
+SR075,Future,Hope,2.7
+SR075,Interconnectedness,Hope,2
+SR075,Optimism,Hope,2.4
+SR075,Overall Self-control,Self-control,2.375
+SR075,Overall Hope,Hope,2.366666667
+SR076,Impulsivity,Self-control,2.75
+SR076,Simple Tasks,Self-control,2.666666667
+SR076,Risk Seeking,Self-control,2.25
+SR076,Physically Active,Self-control,1.666666667
+SR076,Self-centered,Self-control,2
+SR076,Temperament,Self-control,1.75
+SR076,Future,Hope,2.5
+SR076,Interconnectedness,Hope,2.5
+SR076,Optimism,Hope,2.3
+SR076,Overall Self-control,Self-control,2
+SR076,Overall Hope,Hope,2.433333333
+TD001,Impulsivity,Self-control,2.75
+TD001,Simple Tasks,Self-control,2
+TD001,Risk Seeking,Self-control,2.75
+TD001,Physically Active,Self-control,2.666666667
+TD001,Self-centered,Self-control,3
+TD001,Temperament,Self-control,3.25
+TD001,Future,Hope,2.4
+TD001,Interconnectedness,Hope,1.4
+TD001,Optimism,Hope,2.2
+TD001,Overall Self-control,Self-control,2.541666667
+TD001,Overall Hope,Hope,2
+TD002,Impulsivity,Self-control,3
+TD002,Simple Tasks,Self-control,3.333333333
+TD002,Risk Seeking,Self-control,2
+TD002,Physically Active,Self-control,2
+TD002,Self-centered,Self-control,3.75
+TD002,Temperament,Self-control,4
+TD002,Future,Hope,2.5
+TD002,Interconnectedness,Hope,1.9
+TD002,Optimism,Hope,2.4
+TD002,Overall Self-control,Self-control,2.791666667
+TD002,Overall Hope,Hope,2.266666667
+TD003,Impulsivity,Self-control,3.25
+TD003,Simple Tasks,Self-control,3.666666667
+TD003,Risk Seeking,Self-control,2
+TD003,Physically Active,Self-control,2
+TD003,Self-centered,Self-control,3.25
+TD003,Temperament,Self-control,4
+TD003,Future,Hope,2.3
+TD003,Interconnectedness,Hope,2
+TD003,Optimism,Hope,2.4
+TD003,Overall Self-control,Self-control,2.791666667
+TD003,Overall Hope,Hope,2.233333333
+TD004,Impulsivity,Self-control,3.25
+TD004,Simple Tasks,Self-control,4
+TD004,Risk Seeking,Self-control,3.25
+TD004,Physically Active,Self-control,1
+TD004,Self-centered,Self-control,3.25
+TD004,Temperament,Self-control,3.25
+TD004,Future,Hope,2.5
+TD004,Interconnectedness,Hope,2.7
+TD004,Optimism,Hope,2.4
+TD004,Overall Self-control,Self-control,2.791666667
+TD004,Overall Hope,Hope,2.533333333
+TD005,Impulsivity,Self-control,1.75
+TD005,Simple Tasks,Self-control,1
+TD005,Risk Seeking,Self-control,1.75
+TD005,Physically Active,Self-control,2
+TD005,Self-centered,Self-control,2.5
+TD005,Temperament,Self-control,1.75
+TD005,Future,Hope,1.6
+TD005,Interconnectedness,Hope,1.5
+TD005,Optimism,Hope,1.7
+TD005,Overall Self-control,Self-control,1.666666667
+TD005,Overall Hope,Hope,1.6
+TD006,Impulsivity,Self-control,3.5
+TD006,Simple Tasks,Self-control,2
+TD006,Risk Seeking,Self-control,2
+TD006,Physically Active,Self-control,2.666666667
+TD006,Self-centered,Self-control,3
+TD006,Temperament,Self-control,3.5
+TD006,Future,Hope,2.3
+TD006,Interconnectedness,Hope,2.4
+TD006,Optimism,Hope,2.5
+TD006,Overall Self-control,Self-control,2.583333333
+TD006,Overall Hope,Hope,2.4
+TD007,Impulsivity,Self-control,2.25
+TD007,Simple Tasks,Self-control,3.333333333
+TD007,Risk Seeking,Self-control,3
+TD007,Physically Active,Self-control,2
+TD007,Self-centered,Self-control,2.25
+TD007,Temperament,Self-control,2.5
+TD007,Future,Hope,2.3
+TD007,Interconnectedness,Hope,2.1
+TD007,Optimism,Hope,2.1
+TD007,Overall Self-control,Self-control,2.333333333
+TD007,Overall Hope,Hope,2.166666667
+TD008,Impulsivity,Self-control,2.5
+TD008,Simple Tasks,Self-control,1.666666667
+TD008,Risk Seeking,Self-control,2.5
+TD008,Physically Active,Self-control,2.666666667
+TD008,Self-centered,Self-control,3.5
+TD008,Temperament,Self-control,2.75
+TD008,Future,Hope,2.1
+TD008,Interconnectedness,Hope,1.8
+TD008,Optimism,Hope,2.1
+TD008,Overall Self-control,Self-control,2.416666667
+TD008,Overall Hope,Hope,2
+TD009,Impulsivity,Self-control,2.5
+TD009,Simple Tasks,Self-control,2.333333333
+TD009,Risk Seeking,Self-control,3.75
+TD009,Physically Active,Self-control,1.666666667
+TD009,Self-centered,Self-control,2.25
+TD009,Temperament,Self-control,2.75
+TD009,Future,Hope,2
+TD009,Interconnectedness,Hope,1.9
+TD009,Optimism,Hope,1.7
+TD009,Overall Self-control,Self-control,2.375
+TD009,Overall Hope,Hope,1.866666667
+TD010,Impulsivity,Self-control,2.5
+TD010,Simple Tasks,Self-control,2.333333333
+TD010,Risk Seeking,Self-control,3.75
+TD010,Physically Active,Self-control,1.666666667
+TD010,Self-centered,Self-control,2.25
+TD010,Temperament,Self-control,2.75
+TD010,Future,Hope,2
+TD010,Interconnectedness,Hope,1.9
+TD010,Optimism,Hope,1.7
+TD010,Overall Self-control,Self-control,2.375
+TD010,Overall Hope,Hope,1.866666667
+TD011,Impulsivity,Self-control,2.5
+TD011,Simple Tasks,Self-control,2.666666667
+TD011,Risk Seeking,Self-control,2
+TD011,Physically Active,Self-control,3
+TD011,Self-centered,Self-control,2.25
+TD011,Temperament,Self-control,2.75
+TD011,Future,Hope,1.5
+TD011,Interconnectedness,Hope,1.9
+TD011,Optimism,Hope,2.4
+TD011,Overall Self-control,Self-control,2.291666667
+TD011,Overall Hope,Hope,1.933333333
+TD012,Impulsivity,Self-control,2.5
+TD012,Simple Tasks,Self-control,1.333333333
+TD012,Risk Seeking,Self-control,3
+TD012,Physically Active,Self-control,1.666666667
+TD012,Self-centered,Self-control,2.25
+TD012,Temperament,Self-control,2.75
+TD012,Future,Hope,2.1
+TD012,Interconnectedness,Hope,2.3
+TD012,Optimism,Hope,1.6
+TD012,Overall Self-control,Self-control,2.125
+TD012,Overall Hope,Hope,2
+TD013,Impulsivity,Self-control,3
+TD013,Simple Tasks,Self-control,3.333333333
+TD013,Risk Seeking,Self-control,4
+TD013,Physically Active,Self-control,2
+TD013,Self-centered,Self-control,3.5
+TD013,Temperament,Self-control,3.75
+TD013,Future,Hope,2
+TD013,Interconnectedness,Hope,2
+TD013,Optimism,Hope,2.1
+TD013,Overall Self-control,Self-control,3.041666667
+TD013,Overall Hope,Hope,2.033333333
+TD015,Impulsivity,Self-control,3.25
+TD015,Simple Tasks,Self-control,3
+TD015,Risk Seeking,Self-control,3.25
+TD015,Physically Active,Self-control,2.333333333
+TD015,Self-centered,Self-control,2.75
+TD015,Temperament,Self-control,3.25
+TD015,Future,Hope,2.7
+TD015,Interconnectedness,Hope,2.6
+TD015,Optimism,Hope,2.8
+TD015,Overall Self-control,Self-control,2.75
+TD015,Overall Hope,Hope,2.7
+TD016,Impulsivity,Self-control,2.25
+TD016,Simple Tasks,Self-control,2.333333333
+TD016,Risk Seeking,Self-control,2
+TD016,Physically Active,Self-control,2.666666667
+TD016,Self-centered,Self-control,3
+TD016,Temperament,Self-control,3.25
+TD016,Future,Hope,2.5
+TD016,Interconnectedness,Hope,2.7
+TD016,Optimism,Hope,2.4
+TD016,Overall Self-control,Self-control,2.375
+TD016,Overall Hope,Hope,2.533333333
+TD017,Impulsivity,Self-control,2.25
+TD017,Simple Tasks,Self-control,3.333333333
+TD017,Risk Seeking,Self-control,3
+TD017,Physically Active,Self-control,2
+TD017,Self-centered,Self-control,2.25
+TD017,Temperament,Self-control,2.5
+TD017,Future,Hope,1.3
+TD017,Interconnectedness,Hope,1.8
+TD017,Optimism,Hope,1.4
+TD017,Overall Self-control,Self-control,2.333333333
+TD017,Overall Hope,Hope,1.5
+TD018,Impulsivity,Self-control,3
+TD018,Simple Tasks,Self-control,3.666666667
+TD018,Risk Seeking,Self-control,2
+TD018,Physically Active,Self-control,3
+TD018,Self-centered,Self-control,3.5
+TD018,Temperament,Self-control,4
+TD018,Future,Hope,2.6
+TD018,Interconnectedness,Hope,2.6
+TD018,Optimism,Hope,2.5
+TD018,Overall Self-control,Self-control,2.916666667
+TD018,Overall Hope,Hope,2.566666667
+TD049,Impulsivity,Self-control,3.25
+TD049,Simple Tasks,Self-control,2.333333333
+TD049,Risk Seeking,Self-control,3.25
+TD049,Physically Active,Self-control,2
+TD049,Self-centered,Self-control,3.75
+TD049,Temperament,Self-control,3.25
+TD049,Future,Hope,2.4
+TD049,Interconnectedness,Hope,2.1
+TD049,Optimism,Hope,2.5
+TD049,Overall Self-control,Self-control,2.791666667
+TD049,Overall Hope,Hope,2.333333333
+TD050,Impulsivity,Self-control,2.25
+TD050,Simple Tasks,Self-control,2.333333333
+TD050,Risk Seeking,Self-control,2.25
+TD050,Physically Active,Self-control,2.666666667
+TD050,Self-centered,Self-control,2.75
+TD050,Temperament,Self-control,2.25
+TD050,Future,Hope,2
+TD050,Interconnectedness,Hope,2.5
+TD050,Optimism,Hope,2
+TD050,Overall Self-control,Self-control,2.208333333
+TD050,Overall Hope,Hope,2.166666667
+TD051,Impulsivity,Self-control,2
+TD051,Simple Tasks,Self-control,2
+TD051,Risk Seeking,Self-control,3.25
+TD051,Physically Active,Self-control,2
+TD051,Self-centered,Self-control,2.5
+TD051,Temperament,Self-control,2.5
+TD051,Future,Hope,2.7
+TD051,Interconnectedness,Hope,2.3
+TD051,Optimism,Hope,2.4
+TD051,Overall Self-control,Self-control,2.208333333
+TD051,Overall Hope,Hope,2.466666667
+TD052,Impulsivity,Self-control,2.5
+TD052,Simple Tasks,Self-control,3
+TD052,Risk Seeking,Self-control,2.5
+TD052,Physically Active,Self-control,3
+TD052,Self-centered,Self-control,2.5
+TD052,Temperament,Self-control,2.5
+TD052,Future,Hope,2.7
+TD052,Interconnectedness,Hope,2.1
+TD052,Optimism,Hope,2.4
+TD052,Overall Self-control,Self-control,2.416666667
+TD052,Overall Hope,Hope,2.4
+TD053,Impulsivity,Self-control,2.5
+TD053,Simple Tasks,Self-control,3
+TD053,Risk Seeking,Self-control,2.5
+TD053,Physically Active,Self-control,3
+TD053,Self-centered,Self-control,2.5
+TD053,Temperament,Self-control,2.5
+TD053,Future,Hope,2.7
+TD053,Interconnectedness,Hope,2.1
+TD053,Optimism,Hope,2.4
+TD053,Overall Self-control,Self-control,2.416666667
+TD053,Overall Hope,Hope,2.4
+TD054,Impulsivity,Self-control,2
+TD054,Simple Tasks,Self-control,2
+TD054,Risk Seeking,Self-control,3.25
+TD054,Physically Active,Self-control,2
+TD054,Self-centered,Self-control,2.5
+TD054,Temperament,Self-control,2.5
+TD054,Future,Hope,2.7
+TD054,Interconnectedness,Hope,2.2
+TD054,Optimism,Hope,2.4
+TD054,Overall Self-control,Self-control,2.208333333
+TD054,Overall Hope,Hope,2.433333333
+TD055,Impulsivity,Self-control,2
+TD055,Simple Tasks,Self-control,2
+TD055,Risk Seeking,Self-control,3.25
+TD055,Physically Active,Self-control,2
+TD055,Self-centered,Self-control,2.5
+TD055,Temperament,Self-control,2.5
+TD055,Future,Hope,2.7
+TD055,Interconnectedness,Hope,2.2
+TD055,Optimism,Hope,2.4
+TD055,Overall Self-control,Self-control,2.208333333
+TD055,Overall Hope,Hope,2.433333333
+TD056,Impulsivity,Self-control,2
+TD056,Simple Tasks,Self-control,2
+TD056,Risk Seeking,Self-control,3.25
+TD056,Physically Active,Self-control,2
+TD056,Self-centered,Self-control,2.5
+TD056,Temperament,Self-control,2.5
+TD056,Future,Hope,2.7
+TD056,Interconnectedness,Hope,2.2
+TD056,Optimism,Hope,2.4
+TD056,Overall Self-control,Self-control,2.208333333
+TD056,Overall Hope,Hope,2.433333333
+TD057,Impulsivity,Self-control,3.25
+TD057,Simple Tasks,Self-control,2.666666667
+TD057,Risk Seeking,Self-control,2.25
+TD057,Physically Active,Self-control,2
+TD057,Self-centered,Self-control,2.75
+TD057,Temperament,Self-control,2
+TD057,Future,Hope,2.7
+TD057,Interconnectedness,Hope,2.3
+TD057,Optimism,Hope,2.5
+TD057,Overall Self-control,Self-control,2.291666667
+TD057,Overall Hope,Hope,2.5
+TD058,Impulsivity,Self-control,3
+TD058,Simple Tasks,Self-control,2.666666667
+TD058,Risk Seeking,Self-control,2.25
+TD058,Physically Active,Self-control,2.666666667
+TD058,Self-centered,Self-control,2
+TD058,Temperament,Self-control,3
+TD058,Future,Hope,1.9
+TD058,Interconnectedness,Hope,2
+TD058,Optimism,Hope,1.9
+TD058,Overall Self-control,Self-control,2.375
+TD058,Overall Hope,Hope,1.933333333
+TD059,Impulsivity,Self-control,3
+TD059,Simple Tasks,Self-control,3.333333333
+TD059,Risk Seeking,Self-control,3
+TD059,Physically Active,Self-control,1
+TD059,Self-centered,Self-control,3
+TD059,Temperament,Self-control,3.25
+TD059,Future,Hope,2.9
+TD059,Interconnectedness,Hope,3
+TD059,Optimism,Hope,2.5
+TD059,Overall Self-control,Self-control,2.583333333
+TD059,Overall Hope,Hope,2.8
+TD060,Impulsivity,Self-control,4
+TD060,Simple Tasks,Self-control,3
+TD060,Risk Seeking,Self-control,3.75
+TD060,Physically Active,Self-control,2.666666667
+TD060,Self-centered,Self-control,2.25
+TD060,Temperament,Self-control,2.5
+TD060,Future,Hope,2.6
+TD060,Interconnectedness,Hope,2.7
+TD060,Optimism,Hope,2.7
+TD060,Overall Self-control,Self-control,2.791666667
+TD060,Overall Hope,Hope,2.666666667
+TD061,Impulsivity,Self-control,2.5
+TD061,Simple Tasks,Self-control,1.666666667
+TD061,Risk Seeking,Self-control,2.25
+TD061,Physically Active,Self-control,3
+TD061,Self-centered,Self-control,2.5
+TD061,Temperament,Self-control,3
+TD061,Future,Hope,1.7
+TD061,Interconnectedness,Hope,1.6
+TD061,Optimism,Hope,2
+TD061,Overall Self-control,Self-control,2.291666667
+TD061,Overall Hope,Hope,1.766666667
+TD062,Impulsivity,Self-control,3
+TD062,Simple Tasks,Self-control,2.666666667
+TD062,Risk Seeking,Self-control,2.75
+TD062,Physically Active,Self-control,1
+TD062,Self-centered,Self-control,3.5
+TD062,Temperament,Self-control,3.25
+TD062,Future,Hope,2.8
+TD062,Interconnectedness,Hope,1.7
+TD062,Optimism,Hope,2.4
+TD062,Overall Self-control,Self-control,2.541666667
+TD062,Overall Hope,Hope,2.3
+TD063,Impulsivity,Self-control,2.75
+TD063,Simple Tasks,Self-control,2.333333333
+TD063,Risk Seeking,Self-control,3.25
+TD063,Physically Active,Self-control,1.666666667
+TD063,Self-centered,Self-control,3.5
+TD063,Temperament,Self-control,3.25
+TD063,Future,Hope,2
+TD063,Interconnectedness,Hope,1.4
+TD063,Optimism,Hope,1.6
+TD063,Overall Self-control,Self-control,2.625
+TD063,Overall Hope,Hope,1.666666667
+TD064,Impulsivity,Self-control,2.5
+TD064,Simple Tasks,Self-control,2.666666667
+TD064,Risk Seeking,Self-control,2.5
+TD064,Physically Active,Self-control,2.666666667
+TD064,Self-centered,Self-control,2.25
+TD064,Temperament,Self-control,3.5
+TD064,Future,Hope,0.9
+TD064,Interconnectedness,Hope,1.2
+TD064,Optimism,Hope,1.2
+TD064,Overall Self-control,Self-control,2.458333333
+TD064,Overall Hope,Hope,1.1
+TD065,Impulsivity,Self-control,2.25
+TD065,Simple Tasks,Self-control,2.333333333
+TD065,Risk Seeking,Self-control,2.5
+TD065,Physically Active,Self-control,2.666666667
+TD065,Self-centered,Self-control,2.25
+TD065,Temperament,Self-control,2.25
+TD065,Future,Hope,2.4
+TD065,Interconnectedness,Hope,2.4
+TD065,Optimism,Hope,2.3
+TD065,Overall Self-control,Self-control,2.166666667
+TD065,Overall Hope,Hope,2.366666667
+TD066,Impulsivity,Self-control,3
+TD066,Simple Tasks,Self-control,3.333333333
+TD066,Risk Seeking,Self-control,1.5
+TD066,Physically Active,Self-control,1.666666667
+TD066,Self-centered,Self-control,3.25
+TD066,Temperament,Self-control,1.75
+TD066,Future,Hope,2.4
+TD066,Interconnectedness,Hope,1.3
+TD066,Optimism,Hope,1.8
+TD066,Overall Self-control,Self-control,2.208333333
+TD066,Overall Hope,Hope,1.833333333
+TD001,Impulsivity,Self-control,2.5
+TD001,Simple Tasks,Self-control,2.333333333
+TD001,Risk Seeking,Self-control,2.75
+TD001,Physically Active,Self-control,1.666666667
+TD001,Self-centered,Self-control,2.75
+TD001,Temperament,Self-control,3
+TD001,Future,Hope,2.3
+TD001,Interconnectedness,Hope,1.7
+TD001,Optimism,Hope,2.7
+TD001,Overall Self-control,Self-control,2.333333333
+TD001,Overall Hope,Hope,2.233333333
+TD002,Impulsivity,Self-control,2.75
+TD002,Simple Tasks,Self-control,2.333333333
+TD002,Risk Seeking,Self-control,2.25
+TD002,Physically Active,Self-control,2.333333333
+TD002,Self-centered,Self-control,2
+TD002,Temperament,Self-control,2.25
+TD002,Future,Hope,2.4
+TD002,Interconnectedness,Hope,1.6
+TD002,Optimism,Hope,2
+TD002,Overall Self-control,Self-control,2.125
+TD002,Overall Hope,Hope,2
+TD003,Impulsivity,Self-control,1.75
+TD003,Simple Tasks,Self-control,3
+TD003,Risk Seeking,Self-control,2.5
+TD003,Physically Active,Self-control,3
+TD003,Self-centered,Self-control,2.25
+TD003,Temperament,Self-control,2.75
+TD003,Future,Hope,2.5
+TD003,Interconnectedness,Hope,2.2
+TD003,Optimism,Hope,1.9
+TD003,Overall Self-control,Self-control,2.291666667
+TD003,Overall Hope,Hope,2.2
+TD004,Impulsivity,Self-control,3.5
+TD004,Simple Tasks,Self-control,2
+TD004,Risk Seeking,Self-control,3.5
+TD004,Physically Active,Self-control,2.333333333
+TD004,Self-centered,Self-control,3.5
+TD004,Temperament,Self-control,3.5
+TD004,Future,Hope,2.4
+TD004,Interconnectedness,Hope,2.1
+TD004,Optimism,Hope,2.1
+TD004,Overall Self-control,Self-control,2.875
+TD004,Overall Hope,Hope,2.2
+TD005,Impulsivity,Self-control,2.5
+TD005,Simple Tasks,Self-control,2.666666667
+TD005,Risk Seeking,Self-control,2.25
+TD005,Physically Active,Self-control,2.333333333
+TD005,Self-centered,Self-control,3
+TD005,Temperament,Self-control,2.75
+TD005,Future,Hope,2.2
+TD005,Interconnectedness,Hope,2.2
+TD005,Optimism,Hope,2.6
+TD005,Overall Self-control,Self-control,2.375
+TD005,Overall Hope,Hope,2.333333333
+TD006,Impulsivity,Self-control,2.75
+TD006,Simple Tasks,Self-control,2
+TD006,Risk Seeking,Self-control,3.25
+TD006,Physically Active,Self-control,2.666666667
+TD006,Self-centered,Self-control,2.75
+TD006,Temperament,Self-control,3.25
+TD006,Future,Hope,2.5
+TD006,Interconnectedness,Hope,2.7
+TD006,Optimism,Hope,2.5
+TD006,Overall Self-control,Self-control,2.583333333
+TD006,Overall Hope,Hope,2.566666667
+TD007,Impulsivity,Self-control,3.5
+TD007,Simple Tasks,Self-control,2.666666667
+TD007,Risk Seeking,Self-control,2.5
+TD007,Physically Active,Self-control,2.333333333
+TD007,Self-centered,Self-control,2.75
+TD007,Temperament,Self-control,2.5
+TD007,Future,Hope,2.4
+TD007,Interconnectedness,Hope,2.1
+TD007,Optimism,Hope,2.4
+TD007,Overall Self-control,Self-control,2.5
+TD007,Overall Hope,Hope,2.3
+TD008,Impulsivity,Self-control,3.25
+TD008,Simple Tasks,Self-control,3
+TD008,Risk Seeking,Self-control,2
+TD008,Physically Active,Self-control,2
+TD008,Self-centered,Self-control,3
+TD008,Temperament,Self-control,1.75
+TD008,Future,Hope,2.1
+TD008,Interconnectedness,Hope,2.1
+TD008,Optimism,Hope,2.2
+TD008,Overall Self-control,Self-control,2.291666667
+TD008,Overall Hope,Hope,2.133333333
+TD009,Impulsivity,Self-control,2.75
+TD009,Simple Tasks,Self-control,2.333333333
+TD009,Risk Seeking,Self-control,2.25
+TD009,Physically Active,Self-control,2
+TD009,Self-centered,Self-control,3.5
+TD009,Temperament,Self-control,2.5
+TD009,Future,Hope,2.2
+TD009,Interconnectedness,Hope,2.2
+TD009,Optimism,Hope,2
+TD009,Overall Self-control,Self-control,2.375
+TD009,Overall Hope,Hope,2.133333333
+TD010,Impulsivity,Self-control,2.75
+TD010,Simple Tasks,Self-control,3
+TD010,Risk Seeking,Self-control,3.25
+TD010,Physically Active,Self-control,2.666666667
+TD010,Self-centered,Self-control,2.75
+TD010,Temperament,Self-control,3.25
+TD010,Future,Hope,2.2
+TD010,Interconnectedness,Hope,2.6
+TD010,Optimism,Hope,2.8
+TD010,Overall Self-control,Self-control,2.708333333
+TD010,Overall Hope,Hope,2.533333333
+TD011,Impulsivity,Self-control,3
+TD011,Simple Tasks,Self-control,3
+TD011,Risk Seeking,Self-control,3.25
+TD011,Physically Active,Self-control,2
+TD011,Self-centered,Self-control,4
+TD011,Temperament,Self-control,4
+TD011,Future,Hope,2.4
+TD011,Interconnectedness,Hope,2.1
+TD011,Optimism,Hope,2.6
+TD011,Overall Self-control,Self-control,3
+TD011,Overall Hope,Hope,2.366666667
+TD012,Impulsivity,Self-control,3.25
+TD012,Simple Tasks,Self-control,2
+TD012,Risk Seeking,Self-control,2.5
+TD012,Physically Active,Self-control,1
+TD012,Self-centered,Self-control,4
+TD012,Temperament,Self-control,2.5
+TD012,Future,Hope,2.4
+TD012,Interconnectedness,Hope,0.9
+TD012,Optimism,Hope,2.1
+TD012,Overall Self-control,Self-control,2.416666667
+TD012,Overall Hope,Hope,1.8
+TD013,Impulsivity,Self-control,3.25
+TD013,Simple Tasks,Self-control,2.666666667
+TD013,Risk Seeking,Self-control,2.5
+TD013,Physically Active,Self-control,2.333333333
+TD013,Self-centered,Self-control,2.75
+TD013,Temperament,Self-control,2.5
+TD013,Future,Hope,2.5
+TD013,Interconnectedness,Hope,2.1
+TD013,Optimism,Hope,2.1
+TD013,Overall Self-control,Self-control,2.458333333
+TD013,Overall Hope,Hope,2.233333333
+TD014,Impulsivity,Self-control,3
+TD014,Simple Tasks,Self-control,2.666666667
+TD014,Risk Seeking,Self-control,2.75
+TD014,Physically Active,Self-control,2.333333333
+TD014,Self-centered,Self-control,3
+TD014,Temperament,Self-control,2.75
+TD014,Future,Hope,2.5
+TD014,Interconnectedness,Hope,1.9
+TD014,Optimism,Hope,2.4
+TD014,Overall Self-control,Self-control,2.541666667
+TD014,Overall Hope,Hope,2.266666667
+TD015,Impulsivity,Self-control,2.5
+TD015,Simple Tasks,Self-control,2
+TD015,Risk Seeking,Self-control,2.5
+TD015,Physically Active,Self-control,2.666666667
+TD015,Self-centered,Self-control,2.75
+TD015,Temperament,Self-control,2.75
+TD015,Future,Hope,1.8
+TD015,Interconnectedness,Hope,1.6
+TD015,Optimism,Hope,1.8
+TD015,Overall Self-control,Self-control,2.333333333
+TD015,Overall Hope,Hope,1.733333333
+TD016,Impulsivity,Self-control,2.25
+TD016,Simple Tasks,Self-control,2.333333333
+TD016,Risk Seeking,Self-control,3.25
+TD016,Physically Active,Self-control,2.666666667
+TD016,Self-centered,Self-control,1.5
+TD016,Temperament,Self-control,2.5
+TD016,Future,Hope,2.5
+TD016,Interconnectedness,Hope,2.5
+TD016,Optimism,Hope,2.3
+TD016,Overall Self-control,Self-control,2.208333333
+TD016,Overall Hope,Hope,2.433333333
+TD017,Impulsivity,Self-control,2.5
+TD017,Simple Tasks,Self-control,2.333333333
+TD017,Risk Seeking,Self-control,2.5
+TD017,Physically Active,Self-control,2.333333333
+TD017,Self-centered,Self-control,2.5
+TD017,Temperament,Self-control,2.5
+TD017,Future,Hope,2.3
+TD017,Interconnectedness,Hope,1.4
+TD017,Optimism,Hope,2.4
+TD017,Overall Self-control,Self-control,2.25
+TD017,Overall Hope,Hope,2.033333333
+TD018,Impulsivity,Self-control,2.5
+TD018,Simple Tasks,Self-control,2
+TD018,Risk Seeking,Self-control,2.5
+TD018,Physically Active,Self-control,2
+TD018,Self-centered,Self-control,3.25
+TD018,Temperament,Self-control,2.5
+TD018,Future,Hope,2.7
+TD018,Interconnectedness,Hope,2.3
+TD018,Optimism,Hope,2.5
+TD018,Overall Self-control,Self-control,2.291666667
+TD018,Overall Hope,Hope,2.5
+TD019,Impulsivity,Self-control,2.75
+TD019,Simple Tasks,Self-control,1.666666667
+TD019,Risk Seeking,Self-control,2.5
+TD019,Physically Active,Self-control,2.333333333
+TD019,Self-centered,Self-control,3.5
+TD019,Temperament,Self-control,3.25
+TD019,Future,Hope,1.9
+TD019,Interconnectedness,Hope,1.6
+TD019,Optimism,Hope,2.3
+TD019,Overall Self-control,Self-control,2.5
+TD019,Overall Hope,Hope,1.933333333
+TD020,Impulsivity,Self-control,3
+TD020,Simple Tasks,Self-control,2.666666667
+TD020,Risk Seeking,Self-control,1.75
+TD020,Physically Active,Self-control,2.666666667
+TD020,Self-centered,Self-control,2.25
+TD020,Temperament,Self-control,1.75
+TD020,Future,Hope,2.4
+TD020,Interconnectedness,Hope,1.8
+TD020,Optimism,Hope,2.3
+TD020,Overall Self-control,Self-control,2.125
+TD020,Overall Hope,Hope,2.166666667
+TD021,Impulsivity,Self-control,2
+TD021,Simple Tasks,Self-control,3
+TD021,Risk Seeking,Self-control,3.5
+TD021,Physically Active,Self-control,2.333333333
+TD021,Self-centered,Self-control,2.75
+TD021,Temperament,Self-control,2.25
+TD021,Future,Hope,2.5
+TD021,Interconnectedness,Hope,1.9
+TD021,Optimism,Hope,1.7
+TD021,Overall Self-control,Self-control,2.416666667
+TD021,Overall Hope,Hope,2.033333333
+TD022,Impulsivity,Self-control,3
+TD022,Simple Tasks,Self-control,2.333333333
+TD022,Risk Seeking,Self-control,2.75
+TD022,Physically Active,Self-control,2.333333333
+TD022,Self-centered,Self-control,2.75
+TD022,Temperament,Self-control,2.5
+TD022,Future,Hope,2.1
+TD022,Interconnectedness,Hope,2.4
+TD022,Optimism,Hope,1.7
+TD022,Overall Self-control,Self-control,2.416666667
+TD022,Overall Hope,Hope,2.066666667
+TD023,Impulsivity,Self-control,2.25
+TD023,Simple Tasks,Self-control,3
+TD023,Risk Seeking,Self-control,3.25
+TD023,Physically Active,Self-control,2
+TD023,Self-centered,Self-control,4
+TD023,Temperament,Self-control,2.5
+TD023,Future,Hope,2.6
+TD023,Interconnectedness,Hope,2.1
+TD023,Optimism,Hope,2.4
+TD023,Overall Self-control,Self-control,2.625
+TD023,Overall Hope,Hope,2.366666667
+TD024,Impulsivity,Self-control,2.25
+TD024,Simple Tasks,Self-control,3
+TD024,Risk Seeking,Self-control,3.25
+TD024,Physically Active,Self-control,2
+TD024,Self-centered,Self-control,4
+TD024,Temperament,Self-control,2.5
+TD024,Future,Hope,2.6
+TD024,Interconnectedness,Hope,2.1
+TD024,Optimism,Hope,2.4
+TD024,Overall Self-control,Self-control,2.625
+TD024,Overall Hope,Hope,2.366666667
+TD025,Impulsivity,Self-control,2.5
+TD025,Simple Tasks,Self-control,1
+TD025,Risk Seeking,Self-control,2.5
+TD025,Physically Active,Self-control,2
+TD025,Self-centered,Self-control,3.25
+TD025,Temperament,Self-control,1.75
+TD025,Future,Hope,2.4
+TD025,Interconnectedness,Hope,1.7
+TD025,Optimism,Hope,1.8
+TD025,Overall Self-control,Self-control,2.041666667
+TD025,Overall Hope,Hope,1.966666667
+TD026,Impulsivity,Self-control,2.5
+TD026,Simple Tasks,Self-control,1
+TD026,Risk Seeking,Self-control,2.5
+TD026,Physically Active,Self-control,2
+TD026,Self-centered,Self-control,3.25
+TD026,Temperament,Self-control,1.75
+TD026,Future,Hope,2.7
+TD026,Interconnectedness,Hope,1.2
+TD026,Optimism,Hope,1.8
+TD026,Overall Self-control,Self-control,2.041666667
+TD026,Overall Hope,Hope,1.9
+TD027,Impulsivity,Self-control,2.5
+TD027,Simple Tasks,Self-control,2
+TD027,Risk Seeking,Self-control,2.5
+TD027,Physically Active,Self-control,2.333333333
+TD027,Self-centered,Self-control,2.75
+TD027,Temperament,Self-control,2.75
+TD027,Future,Hope,1.8
+TD027,Interconnectedness,Hope,1.4
+TD027,Optimism,Hope,1.7
+TD027,Overall Self-control,Self-control,2.291666667
+TD027,Overall Hope,Hope,1.633333333
+TD028,Impulsivity,Self-control,2.5
+TD028,Simple Tasks,Self-control,2
+TD028,Risk Seeking,Self-control,2
+TD028,Physically Active,Self-control,2
+TD028,Self-centered,Self-control,2.75
+TD028,Temperament,Self-control,2.25
+TD028,Future,Hope,2
+TD028,Interconnectedness,Hope,1.9
+TD028,Optimism,Hope,1.7
+TD028,Overall Self-control,Self-control,2.083333333
+TD028,Overall Hope,Hope,1.866666667
+TD029,Impulsivity,Self-control,3
+TD029,Simple Tasks,Self-control,3
+TD029,Risk Seeking,Self-control,2.25
+TD029,Physically Active,Self-control,3
+TD029,Self-centered,Self-control,2.75
+TD029,Temperament,Self-control,2.5
+TD029,Future,Hope,2.5
+TD029,Interconnectedness,Hope,2.1
+TD029,Optimism,Hope,2.4
+TD029,Overall Self-control,Self-control,2.5
+TD029,Overall Hope,Hope,2.333333333
+TD030,Impulsivity,Self-control,2.25
+TD030,Simple Tasks,Self-control,2.666666667
+TD030,Risk Seeking,Self-control,2.75
+TD030,Physically Active,Self-control,2
+TD030,Self-centered,Self-control,2.25
+TD030,Temperament,Self-control,3
+TD030,Future,Hope,2.2
+TD030,Interconnectedness,Hope,2.2
+TD030,Optimism,Hope,2.4
+TD030,Overall Self-control,Self-control,2.291666667
+TD030,Overall Hope,Hope,2.266666667

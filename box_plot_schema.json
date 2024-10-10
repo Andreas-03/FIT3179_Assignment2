@@ -1,0 +1,65 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": {
+        "text": "Self-control and hope among drug addicts in rehabilitation centers in Malaysia in 2020",
+        "offset": 20
+    },
+    "config": {"numberFormat": ".2f", "customFormatTypes": true},
+    "data": {"url": "Self-control and Hope 2020.csv"},
+    "hconcat": [
+        {
+    "transform": [
+        {
+            "filter": "datum.Measure == 'Self-control' && datum.Aspect != 'Overall Self-control'"
+        }
+    ],
+    "mark": {
+        "type": "boxplot",
+        "extent": "min-max"
+    },
+    "encoding": {
+        "x": {"field": "Aspect", "type": "nominal", "axis": {"labels": false}, "title": "Self-control aspects"},
+        "color": {"field": "Aspect", "type": "nominal", "title": "Self-control aspects", 
+        "scale": {
+            "domain": ["Impulsivity", "Physically Active", "Risk Seeking", "Self-centered", "Simple Tasks", "Temperament"],
+            "range": ["#00cece", "#45b6e4", "#1d6fba", "#073763", "#6266f4", "#601d96"]}},
+        "y": {
+            "field": "Score",
+            "type": "quantitative",
+            "scale": {"domain": [0, 5]},
+            "axis": {"format": "d"}
+            }
+        },
+        "width": 250,
+        "height": 250
+    },
+    {
+    "transform": [
+        {
+            "filter": "datum.Measure == 'Hope' && datum.Aspect != 'Overall Hope'"
+        }
+    ],
+    "mark": {
+        "type": "boxplot",
+        "extent": "min-max"
+    },
+    "encoding": {
+        "x": {"field": "Aspect", "type": "nominal", "axis": {"labels": false}, "title":"Hope aspects"},
+        "color": {"field": "Aspect", "type": "nominal", "title": "Hope aspects",
+            "scale": 
+                {"domain":["Future", "Interconnectedness", "Optimism"],
+                "range": ["#2b8a3b", "#63b138", "#2b4c1d"]
+                }
+            },
+        "y": {
+            "field": "Score",
+            "type": "quantitative",
+            "scale": {"domain": [0, 4]},
+            "axis": {"format": "d"}
+            }
+        },
+        "width": 250,
+        "height": 250
+    }],
+    "resolve": {"scale": {"color": "independent"}}
+}
