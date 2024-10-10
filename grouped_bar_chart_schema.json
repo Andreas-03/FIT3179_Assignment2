@@ -1,0 +1,57 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {"url": "HIV_prevalence.csv"},
+    "title": {
+        "text": "HIV Prevalence by risk group from 2012 to 2022",
+        "offset": 20
+    },   
+    "width": 600,
+    "height": 400,
+    "transform": [
+        {
+            "calculate": "datum.Value / 100" , "as": "Prevalence"
+        }
+    ],
+    "layer":[
+        {
+        "mark": "bar",
+        "encoding": 
+            {
+            "x": {"field": "Year", "type": "ordinal"},
+            "y": {"field": "Prevalence", "type": "quantitative", "title": "Prevalence", "axis": {"format": "%"}},
+            "xOffset": {"field": "Indicator"},
+            "color": {"field": "Indicator", "title": "Risk Group", "type": "nominal",
+                "scale": 
+                {
+                    "domain": ["People who inject drugs","Men who have sex with men","Sex workers","Transgender people"],
+                    "range": ["#1f77b4", "#ff7f0e", "#bd355e", "#4ab6cf"]
+                }
+            },
+            "tooltip": [
+                {"field": "Indicator", "type": "nominal", "title": "Risk Group"},
+                {"field": "Prevalence", "type": "quantitative", "title": "Prevalence", "format": ".2%"},
+                {"field": "Year", "type": "ordinal", "title": "Year"}
+                ]
+            }
+        },
+        {
+        "transform": [
+            {"filter": "datum.Year == 2017 && datum.Indicator == 'Men who have sex with men'"}
+        ],
+        "mark": {
+            "type": "text",
+            "align": "center",
+            "baseline": "top",
+            "dx": 120,
+            "dy": -120,
+            "fontSize": 10,
+            "fontWeight": "normal",
+            "lineBreak": "\n"
+            },
+        "encoding": {
+            "text": {"value": "HIV prevalence among people\n who inject drugs becomes\n the second highest in 2017"},
+            "color": {"value": "black"}
+            }
+        }
+    ]
+}
