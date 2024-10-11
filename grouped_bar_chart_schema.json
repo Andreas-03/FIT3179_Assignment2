@@ -1,12 +1,9 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "data": {"url": "HIV_prevalence.csv"},
-    "title": {
-        "text": "HIV Prevalence by risk group from 2012 to 2022",
-        "offset": 20
-    },   
-    "width": 600,
-    "height": 400,
+    "config": {"font": "Helvetica", "legend": {"titleFontSize": 14, "labelFontSize": 12}, "axis": {"labelFontSize": 12, "titleFontSize": 14}},
+    "width": "container",
+    "height": 500,
     "transform": [
         {
             "calculate": "datum.Value / 100" , "as": "Prevalence"
@@ -14,6 +11,13 @@
     ],
     "layer":[
         {
+        "params":[
+            {
+            "name": "rg_hightlight",
+            "select": {"type": "point", "fields": ["Indicator"]},
+            "bind": "legend"
+            }
+        ],
         "mark": "bar",
         "encoding": 
             {
@@ -27,6 +31,7 @@
                     "range": ["#1f77b4", "#ff7f0e", "#bd355e", "#4ab6cf"]
                 }
             },
+            "opacity": { "condition": {"param": "rg_hightlight", "value": 1}, "value": 0.2},
             "tooltip": [
                 {"field": "Indicator", "type": "nominal", "title": "Risk Group"},
                 {"field": "Prevalence", "type": "quantitative", "title": "Prevalence", "format": ".2%"},
@@ -42,9 +47,9 @@
             "type": "text",
             "align": "center",
             "baseline": "top",
-            "dx": 120,
+            "dx": 160,
             "dy": -120,
-            "fontSize": 10,
+            "fontSize": 11,
             "fontWeight": "normal",
             "lineBreak": "\n"
             },

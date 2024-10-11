@@ -1,10 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": {
-        "text": "Self-control and hope among drug addicts in rehabilitation centers in Malaysia in 2020",
-        "offset": 20
-    },
-    "config": {"numberFormat": ".2f", "customFormatTypes": true},
+    "config": {"numberFormat": ".2f", "customFormatTypes": true, "font": "Helvetica", "legend": {"titleFontSize": 14, "labelFontSize": 12}, "axis": {"labelFontSize": 12, "titleFontSize": 14}},
     "data": {"url": "Self-control and Hope 2020.csv"},
     "hconcat": [
         {
@@ -30,8 +26,8 @@
             "axis": {"format": "d"}
             }
         },
-        "width": 250,
-        "height": 250
+        "width": "container",
+        "height": 450
     },
     {
     "transform": [
@@ -58,8 +54,8 @@
             "axis": {"format": "d"}
             }
         },
-        "width": 250,
-        "height": 250
+        "width": "container",
+        "height": 450
     }],
     "resolve": {"scale": {"color": "independent"}}
 }

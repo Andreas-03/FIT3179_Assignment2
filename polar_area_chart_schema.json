@@ -1,12 +1,9 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": {
-        "text": "Prevalence of Illicit Drug Use and Regional Estimates in 2021",
-        "offset": 20
-    },
+    "config": {"font": "Helvetica"},
     "data": {"url": "Prevalence_of_drug_use_and_regional_estimates.csv"},
-    "width": 500,
-    "height": 500,
+    "width": "container",
+    "height": 550,
     
     "layer":[
         {
@@ -58,8 +55,8 @@
             "align": "center",
             "baseline": "middle",
             "fontWeight": "normal",
-            "fontSize": 10,
-            "radiusOffset": 130
+            "fontSize": 11,
+            "radiusOffset": 150
             },
         "encoding": 
             {
@@ -78,8 +75,8 @@
             "align": "center",
             "baseline": "middle",
             "fontWeight": "normal",
-            "fontSize": 10,
-            "radiusOffset": 115
+            "fontSize": 11,
+            "radiusOffset": 130
             },
         "encoding": 
             {
@@ -98,8 +95,8 @@
             "align": "center",
             "baseline": "middle",
             "fontWeight": "normal",
-            "fontSize": 10,
-            "radiusOffset": 50
+            "fontSize": 11,
+            "radiusOffset": 60
             },
         "encoding": 
             {
@@ -118,8 +115,8 @@
             "align": "center",
             "baseline": "middle",
             "fontWeight": "normal",
-            "fontSize": 10,
-            "radiusOffset": 55
+            "fontSize": 11,
+            "radiusOffset": 65
             },
         "encoding": 
             {
@@ -138,8 +135,8 @@
             "align": "center",
             "baseline": "middle",
             "fontWeight": "normal",
-            "fontSize": 10,
-            "radiusOffset": 70
+            "fontSize": 11,
+            "radiusOffset": 80
             },
         "encoding": 
             {

@@ -1,11 +1,15 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": {
-        "text": "Drug Addicts Prevalence by Administrative District and State from 2010 to 2021",
-        "offset": 20
+        "text": "Drug Addiction Prevalence by State",
+        "offset": 20,
+        "fontSize": 18,
+        "dx": 120
     },
-    "width": 800,
-    "height": 400,
+    "config": {"font": "Helvetica","legend": {"titleFontSize": 14, "labelFontSize": 12}, "axis": {"labelFontSize": 12, "titleFontSize": 14}
+    },
+    "width": "container",
+    "height": 500,
     "projection": {"type": "equalEarth"},
     "params": [
         {
@@ -53,7 +57,7 @@
                     "filter": "datum.Year == selectedYear" 
                 },
                 {
-                    "calculate": "datum.Value / datum.Population1000", "as": "Drug Addicts per 1000 people"
+                    "calculate": "datum.Value / datum.Population1000", "as": "Drug Addicts per 1,000"
                 }
             ],
             "mark": {
@@ -67,18 +71,21 @@
                     "type": "geojson"
                 },
                 "color": {
-                    "field": "Drug Addicts per 1000 people",
+                    "field": "Drug Addicts per 1,000",
                     "type": "quantitative",
                     "scale": {
                         "type": "threshold",
                         "domain": [0.1, 0.3, 0.6, 1.0, 1.5],
-                        "range": ["#edf2c2", "#d3ed95", "#addd8e", "#78c679", "#31a354", "#006837"]
+                        "range": ["#edf2c2", "#d3ed95", "#addd8e", "#78c679", "#31a354", "#008000"]
                     }
 
                 },
                 "tooltip": [
                     {"field": "State", "type": "nominal"},
-                    {"field": "Drug Addicts per 1000 people", "type": "quantitative", "format": ".2f", "title": "Drug Addicts per 1K people"}
+                    {"field": "Value", "type": "quantitative", "title": "Total Drug Addicts", "format": ",d"},
+                    {"field": "Drug Addicts per 1,000", "type": "quantitative", "format": ".2f", "title": "Drug Addicts per 1,000"},
+                    {"field": "Population1000", "type": "quantitative", "title": "Population", "format": ",d"},
+                    {"field": "Year", "type": "ordinal", "title": "Year"}
                 ]
             }
         },
@@ -103,24 +110,27 @@
                     "filter": "datum.Year == selectedYear" 
                 },
                 {
-                    "calculate": "datum.Value / datum.Population1000", "as": "Drug Addicts per 1000 people"
+                    "calculate": "datum.Value / datum.Population1000", "as": "Drug Addicts per 1,000"
                 }
             ],
             "mark": {
                 "type": "text",
                 "color": "black",
                 "fontStyle":"italic",
-                "fontSize": 10,
+                "fontSize": 11,
                 "fontWeight": "bold"
             },
             "encoding": {
                 "text": {"field": "State", "type": "nominal"},  
                 "longitude": {"field": "geo.properties.longitude", "type": "quantitative"},  
                 "latitude": {"field": "geo.properties.latitude", "type": "quantitative"},   
-                "opacity": {"value": 0.25},
+                "opacity": {"condition": {"test": "datum.State == 'Labuan' || datum.State == 'Kuala Lumpur' || datum.State == 'Putrajaya'", "value": 0}, "value": 0.30},
                 "tooltip": [
                     {"field": "State", "type": "nominal"},
-                    {"field": "Drug Addicts per 1000 people", "type": "quantitative", "format": ".2f", "title": "Drug Addicts per 1K people"}
+                    {"field": "Value", "type": "quantitative", "title": "Total Drug Addicts", "format": ",d"},
+                    {"field": "Drug Addicts per 1,000", "type": "quantitative", "format": ".2f", "title": "Drug Addicts per 1,000"},
+                    {"field": "Population1000", "type": "quantitative", "title": "Population", "format": ",d"},
+                    {"field": "Year", "type": "ordinal", "title": "Year"}
                 ]
             }
         }
