@@ -1,16 +1,12 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": {
-        "text": "Drug Addiction Prevalence by State",
-        "offset": 20,
-        "fontSize": 18,
-        "dx": 120
-    },
-    "config": {"font": "Helvetica","legend": {"titleFontSize": 14, "labelFontSize": 12}, "axis": {"labelFontSize": 12, "titleFontSize": 14}
+    "config": {"font": "Helvetica",
+                "legend": {"titleFontSize": 14, "labelFontSize": 12, "direction": "horizontal", "orient": "bottom"},
+                "axis": {"labelFontSize": 12, "titleFontSize": 14}
     },
     "width": "container",
     "height": 500,
-    "projection": {"type": "equalEarth"},
+    "projection": {"type": "equirectangular"},
     "params": [
         {
             "name": "selectedYear",
@@ -25,6 +21,10 @@
         }
     ],
     "layer": [
+        {
+            "data":{"url": "./my_states.json", "format": {"type": "topojson", "feature": "ne_10m_ocean"}},
+            "mark": {"type": "geoshape", "fill": "#cae9f5", "stroke": "black", "strokeWidth": 0.5}
+        },
         {    "data": {
             "url": "./my_states.json",
             "format": {"type": "topojson", "feature": "ne_10m_admin_1_states_provinces"}
@@ -32,7 +32,7 @@
             "mark": {
                 "type": "geoshape",
                 "fill": "lightgray",
-                "stroke": "white",
+                "stroke": "black",
                 "strokeWidth": 0.5
             }
         },
@@ -56,13 +56,12 @@
                 {
                     "filter": "datum.Year == selectedYear" 
                 },
-                {
-                    "calculate": "datum.Value / datum.Population1000", "as": "Drug Addicts per 1,000"
-                }
+                {"calculate": "datum.Population1000 * 1000", "as": "Population"},
+                {"calculate": "datum.Value / (datum.Population/100000)", "as": "Drug Addicts per 100,000"}
             ],
             "mark": {
                 "type": "geoshape",
-                "stroke": "white",
+                "stroke": "black",
                 "strokeWidth": 0.5
             },
             "encoding": {
@@ -71,20 +70,20 @@
                     "type": "geojson"
                 },
                 "color": {
-                    "field": "Drug Addicts per 1,000",
+                    "field": "Drug Addicts per 100,000",
                     "type": "quantitative",
                     "scale": {
                         "type": "threshold",
-                        "domain": [0.1, 0.3, 0.6, 1.0, 1.5],
-                        "range": ["#edf2c2", "#d3ed95", "#addd8e", "#78c679", "#31a354", "#008000"]
+                        "domain": [10, 20, 40, 70, 110, 150, 200, 250],
+                        "range": ["#FFFFE0", "#E2F5BD", "#C5EA99","#8FD16C", "#62B55E", "#3B9752", "#28794C", "#155B45", "#073F3E"]
                     }
 
                 },
                 "tooltip": [
                     {"field": "State", "type": "nominal"},
                     {"field": "Value", "type": "quantitative", "title": "Total Drug Addicts", "format": ",d"},
-                    {"field": "Drug Addicts per 1,000", "type": "quantitative", "format": ".2f", "title": "Drug Addicts per 1,000"},
-                    {"field": "Population1000", "type": "quantitative", "title": "Population", "format": ",d"},
+                    {"field": "Drug Addicts per 100,000", "type": "quantitative", "format": ".2f", "title": "Drug Addicts per 100,000"},
+                    {"field": "Population", "type": "quantitative", "title": "Population", "format": ",d"},
                     {"field": "Year", "type": "ordinal", "title": "Year"}
                 ]
             }
@@ -109,27 +108,26 @@
                 {
                     "filter": "datum.Year == selectedYear" 
                 },
-                {
-                    "calculate": "datum.Value / datum.Population1000", "as": "Drug Addicts per 1,000"
-                }
+                {"calculate": "datum.Population1000 * 1000", "as": "Population"},
+                {"calculate": "datum.Value / (datum.Population/100000)", "as": "Drug Addicts per 100,000"}
             ],
             "mark": {
                 "type": "text",
                 "color": "black",
                 "fontStyle":"italic",
-                "fontSize": 11,
+                "fontSize": 12,
                 "fontWeight": "bold"
             },
             "encoding": {
                 "text": {"field": "State", "type": "nominal"},  
                 "longitude": {"field": "geo.properties.longitude", "type": "quantitative"},  
                 "latitude": {"field": "geo.properties.latitude", "type": "quantitative"},   
-                "opacity": {"condition": {"test": "datum.State == 'Labuan' || datum.State == 'Kuala Lumpur' || datum.State == 'Putrajaya'", "value": 0}, "value": 0.30},
+                "opacity": {"condition": {"test": "datum.State == 'Labuan' || datum.State == 'Kuala Lumpur' || datum.State == 'Putrajaya'", "value": 0}, "value": 0.40},
                 "tooltip": [
                     {"field": "State", "type": "nominal"},
                     {"field": "Value", "type": "quantitative", "title": "Total Drug Addicts", "format": ",d"},
-                    {"field": "Drug Addicts per 1,000", "type": "quantitative", "format": ".2f", "title": "Drug Addicts per 1,000"},
-                    {"field": "Population1000", "type": "quantitative", "title": "Population", "format": ",d"},
+                    {"field": "Drug Addicts per 100,000", "type": "quantitative", "format": ".2f", "title": "Drug Addicts per 100,000"},
+                    {"field": "Population", "type": "quantitative", "title": "Population", "format": ",d"},
                     {"field": "Year", "type": "ordinal", "title": "Year"}
                 ]
             }

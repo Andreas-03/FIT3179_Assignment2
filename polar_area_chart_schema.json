@@ -4,15 +4,44 @@
     "data": {"url": "Prevalence_of_drug_use_and_regional_estimates.csv"},
     "width": "container",
     "height": 550,
-    
+    "params":[
+            {
+            "name": "region_selection",
+            "bind": {
+                "input": "select",
+                "options": [
+                    null,
+                    "Africa",
+                    "Asia",
+                    "Europe",
+                    "Americas",
+                    "Oceania"
+                ],
+                "labels":[
+                    "Show All",
+                    "Africa",
+                    "Asia",
+                    "Europe",
+                    "Americas",
+                    "Oceania"
+                ],
+                "name": "Region: "
+            }
+            }
+        ],
     "layer":[
         {
         "transform": [
             {
+            "filter": "datum.Region == region_selection"
+            },
+            {
+            },
+            {
             "calculate": "datum.Prevalence / 100" , "as": "Prevalence%"
             }
         ],
-        "params":[
+        "params": [
             {
             "name": "drug_hightlight",
             "select": {"type": "point", "fields": ["Drug_type"]},
@@ -21,17 +50,19 @@
         ],
         "mark": 
             {
-            "type": "arc"
+            "type": "arc",
+            "innerRadius": 20,
+            "stroke": "white"
             },
         "encoding": 
             {
-            "theta": {"field": "Region", "type": "nominal"},
-            "radius": {"field": "Prevalence", "type": "quantitative", "stack": true},
+            "theta": {"field": "Prevalence", "type": "quantitative", "stack": true, "title": "Prevalence"},
+            "radius": {"field": "Prevalence", "scale": {"type": "sqrt", "zero": true, "rangeMin": 100}, "title": "Prevalence"},
             "color": {
                 "field": "Drug_type", 
                 "type": "nominal", 
                 "title": "Drug Type",
-                "scale": {"scheme": "category20b"}
+                "scale": {"scheme": "category20"}
                     },
             "opacity": {
                 "condition": {"param": "drug_hightlight", "value": 1},
@@ -46,103 +77,54 @@
             }
         },
         {
-        "transform": [
-            {"filter": "datum.Drug_type == 'Cannabis' && datum.Region == 'Oceania'"}
-        ],
-        "mark": 
-            {
-            "type": "text",
-            "align": "center",
-            "baseline": "middle",
-            "fontWeight": "normal",
-            "fontSize": 11,
-            "radiusOffset": 150
+            "transform": [
+                {"filter": "region_selection == null"},
+                {"calculate": "datum.Number / (datum.Prevalence / 100)", "as": "Population"},
+                {"aggregate": [{"op": "sum", "field": "Population", "as": "TotalPopulation"},
+                               {"op": "sum", "field": "Number", "as": "TotalNumber"}], 
+                 "groupby": ["Drug_type"]},
+                {"calculate": "datum.TotalNumber / datum.TotalPopulation ", "as": "TotalPrevalence%"},
+                {"calculate": "'All'", "as": "Region_tooltip"}
+            ],
+            "mark": {
+                "type": "arc",
+                "innerRadius": 20,
+                "stroke": "white"
             },
-        "encoding": 
-            {
-                "radius": {"field": "Prevalence", "type": "quantitative"},
-                "theta": {"field": "Region", "type": "nominal"},
-                "text": {"field": "Region", "type": "nominal"}
+            "encoding": {
+                "theta": {"field": "TotalPrevalence%", "type": "quantitative", "stack": true, "title": "Total Prevalence"},
+                "radius": {"field": "TotalPrevalence%", "scale": {"type": "sqrt", "zero": true, "rangeMin": 100}, "title": "Total Prevalence"},
+                "color": {
+                    "field": "Drug_type",
+                    "type": "nominal",
+                    "title": "Drug Type",
+                    "scale": {"scheme": "category20"}
+                },
+                "tooltip": [
+                    {"field": "Region_tooltip", "type": "nominal", "title": "Region"},
+                    {"field": "Drug_type", "type": "nominal", "title": "Drug Type"},
+                    {"field": "TotalPrevalence%", "type": "quantitative", "title": "Prevalence", "format": ".2%"},
+                    {"field": "TotalNumber", "type": "quantitative", "title": "Estimated Number", "format": ",d"}
+                ]
             }
         },
         {
-        "transform": [
-            {"filter": "datum.Drug_type == 'Cannabis' && datum.Region == 'Americas'"}
-        ],
-        "mark": 
-            {
-            "type": "text",
-            "align": "center",
-            "baseline": "middle",
-            "fontWeight": "normal",
-            "fontSize": 11,
-            "radiusOffset": 130
+            "transform": [
+                {"filter": "datum.Drug_type=='Cannabis' && (datum.Region == region_selection || region_selection == null)"},
+                {"aggregate": [{"op": "count", "as": "count"}], "groupby": ["Drug_type"]}
+            ],
+            "mark": {
+                "type": "text",
+                "align": "center",
+                "baseline": "middle",
+                "fontSize": 12,
+                "dy": 100,
+                "dx": 100,
+                "fontWeight": "normal",
+                "lineBreak": "\n"
             },
-        "encoding": 
-            {
-                "radius": {"field": "Prevalence", "type": "quantitative"},
-                "theta": {"field": "Region", "type": "nominal"},
-                "text": {"field": "Region", "type": "nominal"}
-            }
-        },
-        {
-        "transform": [
-            {"filter": "datum.Drug_type == 'Cannabis' && datum.Region == 'Asia'"}
-        ],
-        "mark": 
-            {
-            "type": "text",
-            "align": "center",
-            "baseline": "middle",
-            "fontWeight": "normal",
-            "fontSize": 11,
-            "radiusOffset": 60
-            },
-        "encoding": 
-            {
-                "radius": {"field": "Prevalence", "type": "quantitative"},
-                "theta": {"field": "Region", "type": "nominal"},
-                "text": {"field": "Region", "type": "nominal"}
-            }
-        },
-        {
-        "transform": [
-            {"filter": "datum.Drug_type == 'Cannabis' && datum.Region == 'Africa'"}
-        ],
-        "mark": 
-            {
-            "type": "text",
-            "align": "center",
-            "baseline": "middle",
-            "fontWeight": "normal",
-            "fontSize": 11,
-            "radiusOffset": 65
-            },
-        "encoding": 
-            {
-                "radius": {"field": "Prevalence", "type": "quantitative"},
-                "theta": {"field": "Region", "type": "nominal"},
-                "text": {"field": "Region", "type": "nominal"}
-            }
-        },
-        {
-        "transform": [
-            {"filter": "datum.Drug_type == 'Cannabis' && datum.Region == 'Europe'"}
-        ],
-        "mark": 
-            {
-            "type": "text",
-            "align": "center",
-            "baseline": "middle",
-            "fontWeight": "normal",
-            "fontSize": 11,
-            "radiusOffset": 80
-            },
-        "encoding": 
-            {
-                "radius": {"field": "Prevalence", "type": "quantitative"},
-                "theta": {"field": "Region", "type": "nominal"},
-                "text": {"field": "Region", "type": "nominal"}
+            "encoding": {
+                "text": {"datum": "Cannabis has the highest prevalence\n among all drugs due to it being\n legalised in many countries"}
             }
         }
     ],

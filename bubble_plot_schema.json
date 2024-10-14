@@ -86,7 +86,7 @@
                 "scale": {
                     "type": "threshold",
                     "domain": [1000000, 10000000, 50000000, 100000000, 500000000],
-                    "range": [20, 80, 150, 200, 300, 400]
+                    "range": [20, 80, 150, 200, 300, 500]
                 },
                 "legend": {
                     "format": ".1s",
@@ -122,7 +122,7 @@
             "align": "left",
             "baseline": "middle",
             "dx": 12,
-            "fontSize": 11,
+            "fontSize": 12,
             "fontWeight": "normal",
             "lineBreak": "\n"
             },

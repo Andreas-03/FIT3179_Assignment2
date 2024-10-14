@@ -1,10 +1,5 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": {
-        "text": "Total Drug Addicts in Malaysia",
-        "offset": 20,
-        "fontSize": 18
-    },
     "config": {"font": "Helvetica"},
     "data": {"url": "drug_addicts_by_state_my.csv"},
     "width": "container",
@@ -35,9 +30,9 @@
             "type": "text",
             "align": "right",
             "baseline": "middle",
-            "dx": -40,
-            "dy": -20,
-            "fontSize": 11,
+            "dx": -20,
+            "dy": -30,
+            "fontSize": 12,
             "fontWeight": "normal",
             "lineBreak": "\n"
             },
@@ -74,7 +69,48 @@
             },
             "color": {"value": "black"}
             }
-        }
+        },
+        {
+        "transform": [
+            {
+            "filter": "datum.Year == 2016"
+                }
+            ],
+            "mark": {
+                "type": "rule",
+                "color": "blue",
+                "opacity": 0.5,
+                "strokeDash": [5, 5]
+            },
+            "encoding": {
+                "x": {"field": "Year", "type": "nominal"}
+            }
+        },
+        {
+            "transform": [
+                {
+                "filter": "datum.Year == 2016"
+                    }
+                ],
+                "mark": {
+                    "type": "text",
+                    "align": "right",
+                    "baseline": "middle",
+                    "dx": 100,
+                    "dy": 200,
+                    "fontSize": 12,
+                    "fontWeight": "normal",
+                    "lineBreak": "\n"
+                },
+                "encoding": {
+                    "x": {"field": "Year"},
+                    "y": {"field": "Value", "type": "quantitative","aggregate": "sum"},
+                    "text": {
+                    "value": "Start of decline"
+                    },
+                    "color": {"value": "blue"}
+                }
+            }
     ]
 }
 
