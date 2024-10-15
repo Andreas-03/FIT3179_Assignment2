@@ -4,11 +4,14 @@
     "data": {"url": "Self-control and Hope 2020.csv"},
     "hconcat": [
         {
-    "transform": [
+        "width": "container",
+        "height": 400,
+        "transform": [
         {
             "filter": "datum.Measure == 'Self-control' && datum.Aspect != 'Overall Self-control'"
         }
-    ],
+        ],
+        "layer":[{
     "mark": {
         "type": "boxplot",
         "extent": "min-max"
@@ -23,18 +26,45 @@
             "field": "Score",
             "type": "quantitative",
             "scale": {"domain": [0, 5]},
-            "axis": {"format": "d"}
+            "axis": {"format": ".1f"}
             }
-        },
-        "width": "container",
-        "height": 400
+        }
     },
+    {
+        "transform": [
+            {
+                "filter": "datum.Aspect == 'Physically Active'"
+            }
+        ],
+        "mark": {
+            "type": "text",
+            "align": "center",
+            "baseline": "middle",
+            "dx": 0,
+            "dy": -50,
+            "fontSize": 12,
+            "fontWeight": "normal",
+            "lineBreak": "\n"
+        },
+        "encoding": {
+            "x": {"field": "Aspect"},
+            "y": {"field": "Score", "type": "quantitative", "aggregate": "max"},
+            "text": {
+                "value": "Majority found\n it difficult to\n stay physically active"
+            },
+            "color": {"value": "black"}
+        }
+    }
+]},
     {
     "transform": [
         {
             "filter": "datum.Measure == 'Hope' && datum.Aspect != 'Overall Hope'"
         }
     ],
+    "width": "container",
+    "height": 400,
+    "layer":[{
     "mark": {
         "type": "boxplot",
         "extent": "min-max"
@@ -51,11 +81,35 @@
             "field": "Score",
             "type": "quantitative",
             "scale": {"domain": [0, 4]},
-            "axis": {"format": "d"}
+            "axis": {"format": ".1f"}
             }
+        }
+    },
+    {
+        "transform": [
+            {
+                "filter": "datum.Aspect == 'Future'"
+            }
+        ],
+        "mark": {
+            "type": "text",
+            "align": "center",
+            "baseline": "middle",
+            "dx": 0,
+            "dy": -60,
+            "fontSize": 12,
+            "fontWeight": "normal",
+            "lineBreak": "\n"
         },
-        "width": "container",
-        "height": 400
+        "encoding": {
+            "x": {"field": "Aspect"},
+            "y": {"field": "Score", "type": "quantitative", "aggregate": "max"},
+            "text": {
+                "value": "Majority was\n more hopeful about\n the future and\n achieving goals"
+            },
+            "color": {"value": "black"}
+        }
+    }]
     }],
     "resolve": {"scale": {"color": "independent"}}
 }
