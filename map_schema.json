@@ -5,7 +5,7 @@
                 "axis": {"labelFontSize": 12, "titleFontSize": 14}
     },
     "width": "container",
-    "height": 500,
+    "height": "container",
     "projection": {"type": "equirectangular"},
     "params": [
         {

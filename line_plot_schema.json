@@ -3,7 +3,7 @@
     "config": {"font": "Helvetica"},
     "data": {"url": "drug_addicts_by_state_my.csv"},
     "width": "container",
-    "height": 400,
+    "height": "container",
     "layer": [
         {
         "mark": {

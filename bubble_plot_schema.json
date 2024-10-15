@@ -3,7 +3,7 @@
     "config": {"font": "Helvetica", "legend": {"titleFontSize": 14, "labelFontSize": 12}, "axis": {"labelFontSize": 12, "titleFontSize": 14}},
     "data": {"url": "drug_use_by_country_2019.csv"},
     "width": "container",
-    "height": 500,
+    "height": "container",
     "params":[
         {
             "name": "population_above",

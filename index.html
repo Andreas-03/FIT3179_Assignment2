@@ -15,8 +15,8 @@
 
     <!-- Display font -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Calistoga&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Calistoga&display=swap" rel="stylesheet">
 
     <style>
         body {
@@ -57,35 +57,118 @@
             width: 100%;
             max-width: 100%;
             border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            align-items: right;
         }
         .visualization-section h2 {
             margin-bottom: 20px;
-            font-size: 1.5rem;
+            margin-left: 30px;
+            font-size: 1.7rem;
             color: #343a40;
         }
+
+        .visualization-section-col {
+            background: white;
+            margin: 20px 0;
+            padding: 20px;
+            padding-bottom: 60px;
+            width: 100%;
+            border-radius: 8px;
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .visualization-section-col h2 {
+            font-size: 1.7rem;
+            color: #343a40;
+            width: 100%;
+            margin-bottom: 20px;
+            padding-left: 30px;
+        }
+
         .highlight {
             color: #007bff;
             font-weight: bold;
         }
-        .description {
-            font-size: 1.1rem;
-            width: 90%;
-            color: #555;
+
+        .danger {
+            color: #dc3545;
+            font-weight: bold;
         }
-        .parent{
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            grid-gap: 20px;
+
+        .embold {
+            font-weight: bold;
         }
+
         .container {
             margin: 0 auto;
-            padding: 0px 20px 0 0;
+            padding: 20px;
             max-width: 1300px;
         }
+
+        .description {
+            font-size: 1.3rem;
+            width: 85%;
+            color: #555;
+            text-align: justify;
+            padding-left: 30px;
+        }
+
+        .schema {
+            width: 100%;
+            height: 600px; 
+            padding-left: 30px;
+        }
+
+        .description-col {
+            font-size: 1.3rem;
+            color: #555;
+            width: 30%; 
+            text-align: justify;
+            padding-left: 30px;
+        }
+
+        .description-col-thin{
+            font-size: 1.3rem;
+            color: #555;
+            width: 30%; 
+            text-align: justify;
+            padding-right: 40px;
+        }
+
+        .schema-col {
+            width: 61%;
+            height: 500px; 
+            margin-left: 5%;
+            padding-top: 50px;
+        }
+
+        .schema-col-small{
+            width: 61%;
+            height: 450px; 
+            margin-left: 5%;
+            padding-top: 50px;
+        }
+
+        .footer {
+            background-color: #343a40;
+            color: white;
+            padding: 20px;
+            text-align: left;
+            margin-top: 40px;
+            width: 100%;
+            font-size: 0.9rem;
+        }
+
+        .footer p {
+            margin: 5px 0;
+        }
+
     </style>
 </head>
 <body>
-
     <div class="header">
         <h1>Drug Abuse In Malaysia</h1>
         <p class="sub-header">Exploring the drug addiction epidemic across the globe and uncovering its prevalence in Malaysia</p>
@@ -95,61 +178,72 @@
         <div class="visualization-section">
             <h2><Span class="highlight">A Worldwide Perspective:</Span> Global Drug Usage and Deaths Caused in 2019</h2>
             <p class="description">
-                Every country undoubtedly has its own war on drugs. Explore the landscape of drug usage across the globe in 2019, highlighting some of the most
-                notable countries and their drug consumption patterns. Gain an understanding into the mortality rates and the impact of drug addiction on the global population.
-            </p>
+                Every country undoubtedly has its own story with drug abuse. Uncovering the landscape of drug usage across the globe is the first piece of the puzzle
+                into understanding our own country's <span class = "embold">drug consumption patterns</span>. By taking a look into the <span class="danger">impact of drug addiction</span>
+                on the global population, we can hopefully compare how our country fairs on a global scale. 
             <div id="bubble_chart" class="schema"></div>
         </div>
-
-        <div class="visualization-section">
-            <h2>A Silent Breakdown: Drug Type Prevalence by Region in 2023</h2>
-            <p class="description">
-                Drug use is an ever present reality no matter where you look at. However, the prevalence of drug use may vary across
-                the globe. Each region, with its unique social and economic conditions, may have a different drug use pattern, which is 
-                what we wish to explore. 
+        
+        <div class="visualization-section-col">
+            <h2><Span class="highlight">A Silent Breakdown:</span> Drug Type Prevalence by Region in 2023</h2>
+            <p class="description-col">
+                The prevalence of different <span class="danger">drug types</span> vary significantly across the globe, influenced by each region's unique <span class="embold">social, cultural</span>, and
+                <span class="embold">economic</span> conditions.
+                Factors such as income levels, access to healthcare, social norms or government policies are possible contributers to differing patterns of drug use.
+                Examining the regional differences in drug consumption can provide valuable insights into the underlying <span class="embold">causes of drug addiction.</span>
             </p>
-            <div id="polar_area_chart" class="schema"></div>
+            <div id="polar_area_chart" class="schema-col-small"></div>
         </div>
 
         <div class="visualization-section">
-            <h2>A State-by-State Look: Drug Addicts Distribution by State from 2010 to 2021</h2>
+            <h2><Span class="highlight">A State-by-State Look:</Span> Drug Addicts Distribution by State from 2010 to 2021</h2>
             <p class="description">
-                What about Malaysia? How has the drug addiction epidemic evolved over the years? This map unveils the harsh reality of drug addiction
-                across the nation, state by state from 2010 to 2021. Dive into this visualization by interacting with the slider to reveal the decade-long battle
-                against drug addiction in Malaysia.
+                What about Malaysia? How has the drug addiction epidemic <span class ="embold">evolved</span> over the years? This map unveils the harsh reality of drug addiction
+                across the nation, state by state in the last decade. Dive into this visualization by interacting with the slider to uncover <span class = "danger">hotspots of drug addiction</span>
+                which reveals Malaysia's decade-long struggle.
+                
             </p>
+
+
             <div id="map" class="schema mb-30"></div>
         </div>
-        <div class="visualization-section">
-            <h2>The Bigger Picture: Total Drug Addicts in Malaysia from 2010 to 2021</h2>
-            <p class="description">
-                But what's the bigger picture? It seems that the decade-long struggle has slowly reached turning point. Amidst the sudden surge of 
-                drug addiction cases in 2016, the nation has seen a steady decline in the number of drug addicts since then. It's a sign that the 
+        <div class="visualization-section-col">
+            <h2><Span class="highlight">The Bigger Picture:</Span> Total Drug Addicts in Malaysia from 2010 to 2021</h2>
+            <div id="line_plot" class="schema-col"></div>
+            <p class="description-col-thin">
+                Taking a look at the <span class = "embold">bigger picture</span>, it seems that the decade-long struggle has slowly reached a <span class="embold">turning point</span>. Amidst the sudden surge of 
+                drug addiction cases in 2016, the nation has seen a steady <span class="highlight">decline</span> in the number of drug addicts since then. This might be a sign that the 
                 country's efforts are making an impact, but there's still more work to be done.
             </p>
-            <div id="line_plot" class="schema pt-5"></div>
+
         </div>
 
 
-        <div class="visualization-section">
-            <h2>The Hidden Link: HIV Prevalence Across Risk Groups from 2012 to 2022</h2>
-            <p class="description">
-                HIV doesn't affect everyone equally. The risk of contracting HIV is higher among certain groups, such as drug addicts. Although drug addicts
-                have some of the highest risks for contracting HIV, a noticeable decline has been observed in recent years, attributing to the nation's efforts
-                and various initiatives in combating the drug addiction epidemic.
+        <div class="visualization-section-col">
+            <h2><Span class="highlight">The Hidden Link:</Span> HIV Prevalence Across Risk Groups from 2012 to 2022</h2>
+            <p class="description-col">
+                Looking into the <span class="embold">HIV prevalence</span> among different risk groups might give us a clue into the decrease in number of drug addicts in recent years.
+                Although drug addicts have some of the <span class="danger">highest risks</span> for contracting HIV, a noticeable <span class="highlight">decline</span> has been observed in recent years, attributing to the nation's efforts
+                and various initiatives in combating the drug addiction epidemic including opioid substitution therapies, counseling and public awareness campaigns.
             </p>
-            <div id="grouped_bar_chart" class="schema"></div>
+            <div id="grouped_bar_chart" class="schema-col"></div>
         </div>
 
-        <div class="visualization-section">
-            <h2>The Journey to Recovery: Self-Control and Hope Among Recovering Addicts in 2020</h2>
+        <div class="visualization-section" style="height: 680px">
+            <h2><Span class="highlight">The Journey to Recovery:</Span> Perceived Self-Control and Hope Among Recovering Addicts in 2020</h2>
             <p class="description">
-                Recovery is a battle of both the mind and the spirit. This visualization offers a glimpse into the inner lives of recovering drug addicts
-                across various rehabilitation centers in Malaysia in 2020, focusing on the perceived self-control and hope during rehabilitation. 
-                It is evident that the road to recovery is not easy, but reflecting on the human aspects of addiction recovery can help pave a 
-                pathway forward in combating the drug addiction epidemic.
+                Although <span class="embold">prevention</span> is the first step towards eradicating this epidemic, <span class="embold">rehabilitation</span> also plays a key role in helping those that are affected and preventing relapse.
+                This visualization offers a glimpse into the inner lives of recovering drug addicts
+                across various rehabilitation centers in Malaysia. focusing on the perceived <span class="embold">self-control</span> and <span class="embold">hope</span> during rehabilitation. This may offer a clue into
+                better understanding the recovery process and the factors that contribute to a <span class = "highlight">successful recovery</span>.
             </p>
             <div id="box_plot" class="schema"></div>
+        </div>
+        <div class="footer">
+            <p>Created by Andreas Kok</p>
+            <p>Last Updated: 15 October 2024</p>
+            <p><strong>Data Sources:</strong> United Nations Office on Drugs and Crime (UNODC), Ministry of Health Malaysia, National Anti-Drug Agency Malaysia</p>
+            
         </div>
     </div>
 

@@ -3,7 +3,7 @@
     "config": {"font": "Helvetica","legend": {"titleFontSize": 14, "labelFontSize": 12}, "axis": {"labelFontSize": 12, "titleFontSize": 14}},
     "data": {"url": "Prevalence_of_drug_use_and_regional_estimates.csv"},
     "width": "container",
-    "height": 550,
+    "height": "container",
     "params":[
             {
             "name": "region_selection",
@@ -118,8 +118,8 @@
                 "align": "center",
                 "baseline": "middle",
                 "fontSize": 12,
-                "dy": 100,
-                "dx": 100,
+                "dy": 70,
+                "dx": 300,
                 "fontWeight": "normal",
                 "lineBreak": "\n"
             },

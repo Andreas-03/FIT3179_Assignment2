@@ -1,9 +1,11 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "data": {"url": "HIV_prevalence.csv"},
-    "config": {"font": "Helvetica", "legend": {"titleFontSize": 14, "labelFontSize": 12}, "axis": {"labelFontSize": 12, "titleFontSize": 14}},
+    "config": {"font": "Helvetica", 
+    "legend": {"titleFontSize": 14, "labelFontSize": 12, "direction": "horizontal", "orient": "bottom"}, 
+    "axis": {"labelFontSize": 12, "titleFontSize": 14}},
     "width": "container",
-    "height": 500,
+    "height": "container",
     "transform": [
         {
             "calculate": "datum.Value / 100" , "as": "Prevalence"
@@ -40,8 +42,8 @@
             "type": "text",
             "align": "center",
             "baseline": "top",
-            "dx": 160,
-            "dy": -120,
+            "dx": 140,
+            "dy": -100,
             "fontSize": 12,
             "fontWeight": "normal",
             "lineBreak": "\n"
@@ -74,7 +76,7 @@
             "align": "center",
             "baseline": "top",
             "dx": -100,
-            "dy": -180,
+            "dy": -140,
             "fontSize": 12,
             "fontWeight": "normal",
             "lineBreak": "\n"

@@ -27,7 +27,7 @@
             }
         },
         "width": "container",
-        "height": 450
+        "height": 400
     },
     {
     "transform": [
@@ -55,7 +55,7 @@
             }
         },
         "width": "container",
-        "height": 450
+        "height": 400
     }],
     "resolve": {"scale": {"color": "independent"}}
 }
