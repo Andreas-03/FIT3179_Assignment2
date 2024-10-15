@@ -95,7 +95,7 @@
             "type": "text",
             "align": "center",
             "baseline": "middle",
-            "dx": 0,
+            "dx": 1,
             "dy": -60,
             "fontSize": 12,
             "fontWeight": "normal",
